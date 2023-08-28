@@ -4,16 +4,16 @@ Exercises in the Python programming language and broader ecosystem.
 ## Resources
 
 Distributions
-* [ [H](https://www.anaconda.com/open-source) ][ D ][G][ W ] Anaconda
-* [ [H](https://circuitpython.org) ][ D ][ [G](https://github.com/Adafruit/CircuitPython) ][ [W](https://en.wikipedia.org/wiki/CircuitPython) ] CircuitPython
-* [ [H](https://www.python.org) ][ D ][ [G](https://github.com/python/cpython) ][ [W](https://en.wikipedia.org/wiki/CPython) ] CPython
-* [ [H](https://micropython.org) ][ [D](https://docs.micropython.org/en/latest/) ][ [G](https://github.com/micropython/micropython) ][ [W](https://en.wikipedia.org/wiki/MicroPython) ] MicroPython
-* [ [H](https://www.pypy.org) ][ [D](https://doc.pypy.org/en/latest/) ][ G ][ [W](https://en.wikipedia.org/wiki/PyPy) ] PyPy
-* [ [H](https://github.com/stackless-dev/stackless/wiki) ][ D ][ [G](https://github.com/stackless-dev/stackless) ][ [W](https://en.wikipedia.org/wiki/Stackless_Python) ] Stackless
-* [ [W](https://en.wikipedia.org/wiki/IronPython) ] IronPython
-* [ [W](https://en.wikipedia.org/wiki/Jython) ] Jython
+* [ [h](https://www.anaconda.com/open-source) ][ d ][ g ][ w ] Anaconda
+* [ [h](https://circuitpython.org) ][ d ][ [g](https://github.com/Adafruit/CircuitPython) ][ [w](https://en.wikipedia.org/wiki/CircuitPython) ] CircuitPython
+* [ [h](https://www.python.org) ][ d ][ [g](https://github.com/python/cpython) ][ [w](https://en.wikipedia.org/wiki/CPython) ] CPython
+* [ [h](https://micropython.org) ][ [d](https://docs.micropython.org/en/latest/) ][ [g](https://github.com/micropython/micropython) ][ [w](https://en.wikipedia.org/wiki/MicroPython) ] MicroPython
+* [ [h](https://www.pypy.org) ][ [d](https://doc.pypy.org/en/latest/) ][ g ][ [w](https://en.wikipedia.org/wiki/PyPy) ] PyPy
+* [ [h](https://github.com/stackless-dev/stackless/wiki) ][ d ][ [g](https://github.com/stackless-dev/stackless) ][ [w](https://en.wikipedia.org/wiki/Stackless_Python) ] Stackless
+* [ [w](https://en.wikipedia.org/wiki/IronPython) ] IronPython
+* [ [w](https://en.wikipedia.org/wiki/Jython) ] Jython
 
-[ [W](https://en.wikipedia.org/wiki/Python_syntax_and_semantics) ] Python syntax and semantics
+[ [w](https://en.wikipedia.org/wiki/Python_syntax_and_semantics) ] Python syntax and semantics
 
 Packages
 * [ h ][ [d](https://www.crummy.com/software/BeautifulSoup/) ][ g ][ c ][ [p](https://pypi.org/project/beautifulsoup4/) ] Beautiful Soup
@@ -193,22 +193,22 @@ Packages
 * [ [RP](https://realpython.com/simpy-simulating-with-python/) ] Zhané, Jaya. (25 Mar 2020). "SimPy: Simulating Real-World Processes With Python". RealPython.
 
 freeCodeCamp
-* [[Y](https://www.youtube.com/watch?v=jH85McHenvw)] freeCodeCamp. (4 Oct 2022). "Learn Python by Thinking in Types- Full Course".
-* [[Y](https://www.youtube.com/watch?v=L8ypSXwyBds)] freeCodeCamp. (25 Apr 2022). "Python + PyTorch + PyGame Reinforcement Learning - Train an AI to Play Snake".
-* [[Y](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)] freeCodeCamp. (2022). "Python TensorFlow for Machine Learning - Neural Network Text Classification Tutorial".
-* [[Y](https://www.youtube.com/watch?v=0B5eIE_1vpU)] freeCodeCamp. (2021). "Scikit-learn Crash Course - Machine Learning Library for Python".
-* [[Y](https://www.youtube.com/watch?v=8ext9G7xspg)] freeCodeCamp. (9 Dec 2020). "12 Beginner Python Projects - Coding Course".
-* [[Y](https://www.youtube.com/watch?v=3Xc3CA655Y4)] freeCodeCamp. (7 May 2020). "Matplotlib Crash Course".
-* [[Y](https://www.youtube.com/watch?v=r-uOLxNrNk8)] freeCodeCamp. (15 Apr 2020). "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)".
-* [[Y](https://www.youtube.com/watch?v=HGOBQPFzWKo)] freeCodeCamp. (2020). "Intermediate Python Programming Course".
-* [[Y](https://www.youtube.com/watch?v=p65AHm9MX80)] freeCodeCamp. (19 Feb 2019). "Python Algorithms for Interviews".
+* [ [y](https://www.youtube.com/watch?v=jH85McHenvw) ] freeCodeCamp. (4 Oct 2022). "Learn Python by Thinking in Types- Full Course".
+* [ [y](https://www.youtube.com/watch?v=L8ypSXwyBds) ] freeCodeCamp. (25 Apr 2022). "Python + PyTorch + PyGame Reinforcement Learning - Train an AI to Play Snake".
+* [ [y](https://www.youtube.com/watch?v=VtRLrQ3Ev-U) ] freeCodeCamp. (2022). "Python TensorFlow for Machine Learning - Neural Network Text Classification Tutorial".
+* [ [y](https://www.youtube.com/watch?v=0B5eIE_1vpU) ] freeCodeCamp. (2021). "Scikit-learn Crash Course - Machine Learning Library for Python".
+* [ [y](https://www.youtube.com/watch?v=8ext9G7xspg) ] freeCodeCamp. (9 Dec 2020). "12 Beginner Python Projects - Coding Course".
+* [ [y](https://www.youtube.com/watch?v=3Xc3CA655Y4) ] freeCodeCamp. (7 May 2020). "Matplotlib Crash Course".
+* [ [y](https://www.youtube.com/watch?v=r-uOLxNrNk8) ] freeCodeCamp. (15 Apr 2020). "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)".
+* [ [y](https://www.youtube.com/watch?v=HGOBQPFzWKo) ] freeCodeCamp. (2020). "Intermediate Python Programming Course".
+* [ [y](https://www.youtube.com/watch?v=p65AHm9MX80) ] freeCodeCamp. (19 Feb 2019). "Python Algorithms for Interviews".
 
 More
-* [ [H](https://cs50.harvard.edu/ai/2023/) ] CS50's Introduction to Artificial Intelligence with Python.
+* [ [h](https://cs50.harvard.edu/ai/2023/) ] CS50's Introduction to Artificial Intelligence with Python.
 * [ [P](https://scientific-python.readthedocs.io/en/latest/index.html) ] Scientific Python
 * [PyMOTW-3](https://pymotw.com/3/)
 * [ [P](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) ] Anderson, Finn. (15 Apr 2023). "The fastest way to read a CSV file in Pandas 2.0". Medium.
-* [ [P](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0) ][ [G](https://github.com/PatrickKalkman/python-di) ] Kalkman, Patrick. (14 Apr 2023). "Dependency Injection in Python". Medium.
+* [ [P](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0) ][ [g](https://github.com/PatrickKalkman/python-di) ] Kalkman, Patrick. (14 Apr 2023). "Dependency Injection in Python". Medium.
 * https://www.youtube.com/watch?v=KeIMUw22SZ8
 * https://www.udemy.com/course/python-stem-essentials/
 * [[Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)]
@@ -223,12 +223,12 @@ More
 
 ## Texts
 
-* [ [G](https://github.com/Kyrand/dataviz-with-python-and-js-ed-2) ] Dale, Kyran. (2022). _Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data_. O'Reilly.
-* [ [G](https://github.com/raerickson/football_book_code) ] Eager, Eric A. & Richard A. Erickson. (2023). _Football Analytics with Python & R: Learning Data Science Through the Lens of Sports_. O'Reilly.
-* [ [H](https://www.statlearning.com/) ] James, Witten, Hastie, Tibshirani, Taylor. (2023). _An Introduction to Statistical Learning with Applications in Python_. Springer.
-* [ [H](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) ] Kong, Qingkai; Timmy Siauw; & Alexandre Bayen. _Python Programming and Numerical Methods: A Guide for Scientists and Engineers_. Academic Press.
+* [ [g](https://github.com/Kyrand/dataviz-with-python-and-js-ed-2) ] Dale, Kyran. (2022). _Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data_. O'Reilly.
+* [ [g](https://github.com/raerickson/football_book_code) ] Eager, Eric A. & Richard A. Erickson. (2023). _Football Analytics with Python & R: Learning Data Science Through the Lens of Sports_. O'Reilly.
+* [ [h](https://www.statlearning.com/) ] James, Witten, Hastie, Tibshirani, Taylor. (2023). _An Introduction to Statistical Learning with Applications in Python_. Springer.
+* [ [h](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) ] Kong, Qingkai; Timmy Siauw; & Alexandre Bayen. _Python Programming and Numerical Methods: A Guide for Scientists and Engineers_. Academic Press.
 * Jolowicz, Claudio. (2024). _Hypermodern Python Tooling: Building Reliable Workflows for an Evolving Python Ecosystem_. O'Reilly.
-* [ [H](https://www.py4e.com/book) ] Severence, Charles. (2016). _Python for Everyone_.
+* [ [h](https://www.py4e.com/book) ] Severence, Charles. (2016). _Python for Everyone_.
 
 Downey, Allen. (2023). _Modeling and Simulation in Python: Use Computation to Predict and Explain the World_. [No Starch Press](https://nostarch.com/modeling-and-simulation-python).
 
@@ -243,7 +243,7 @@ McKinney, Wes. (2022). _Python for Data Analysis: Data Wrangling with Pandas, Nu
 * Downey, Allen. (2015). [_Think Python, 2nd Ed_](https://github.com/AllenDowney/ThinkPython2). O'Reilly.
 * Geron, Aurelion. (2019). _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems_. 2nd Ed. O'Reilly. [GitHub](https://github.com/ageron/handson-ml2).
 * Gift, Noah et al. (2019). [_Python for DevOps: Learn Ruthlessly Effective Automation_](https://github.com/paiml/python_devops_book). O'Reilly.
-* Goodrich, Micahel T. Roberto Tamassia, & Michael H. Goldwasser. (2013). _Data Structures and Algorithms in Python_. Wiley.
+* Goodrich, Micahel T. Roberto Tamassia, & Michael h. Goldwasser. (2013). _Data Structures and Algorithms in Python_. Wiley.
 * Gorelick, Micha & Ian Ozsvald. (2020). [_High Performance Python: Practical Performant Programming for Humans, 2nd Ed_](https://github.com/mynameisfiber/high_performance_python_2e). O'Reilly.
 * Hattingh, Caleb. (2020). _Using Asyncio in Python: Understanding Python's Asynchronous Programming Features_. O'Reilly.
 * Hilpisch, Yves. (2021). _Artificial Intelligence in Finance: A Python-Based Guide_. O'Reilly Media.
@@ -263,7 +263,7 @@ McKinney, Wes. (2022). _Python for Data Analysis: Data Wrangling with Pandas, Nu
 * Ramalho, Luciano. (2021). _Fluent Python: Clear, Concise, and Effective Programming, 2nd Ed_. O'Reilly. [Home](https://www.fluentpython.com/). [GitHub](https://github.com/fluentpython/example-code-2e).
 * Schroeder, Adam; Christian Mayer; & Ann Marie Ward. (2022). _Python Dash_. No Starch Press.
 * Seitz, Justin & Tim Arnold. (2021). _Black Hat Python: Python Programming for Hackers and Pentesters_. 2nd Ed. No Starch Press.
-* Smith, Kurt W. (2015). _Cython: A Guide for Python Programmers_. O'Reilly.
+* Smith, Kurt w. (2015). _Cython: A Guide for Python Programmers_. O'Reilly.
 * Sweigart, Al. (2022). _The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript_. [No Starch Press](https://nostarch.com/recursive-book-recursion).
 * Sweigart, Al. (2021). _The Big Book of Small Python Projects: 81 Easy Practice Programs_. [No Starch Press](https://nostarch.com/big-book-small-python-projects). [Home](https://inventwithpython.com/bigbookpython/).
 * Sweigart, Al. (2020). _Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code_. [No Starch Press](https://nostarch.com/beyond-basic-stuff-python).
