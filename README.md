@@ -36,3 +36,4 @@ RealPython
 * [ [G](https://github.com/Kyrand/dataviz-with-python-and-js-ed-2) ] Dale, Kyran. (2022). _Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data_. O'Reilly.
 * [ [G](https://github.com/raerickson/football_book_code) ] Eager, Eric A. & Richard A. Erickson. (2023). _Football Analytics with Python & R: Learning Data Science Through the Lens of Sports_. O'Reilly.
 * Jolowicz, Claudio. (2024). _Hypermodern Python Tooling: Building Reliable Workflows for an Evolving Python Ecosystem_. O'Reilly.
+* [ [H](https://www.py4e.com/book) ] Severence, Charles. (2016). _Python for Everyone_.
