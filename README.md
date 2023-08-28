@@ -16,6 +16,7 @@ RealPython
 * [ [RP](https://realpython.com/python-vs-cpp/) ] Anderson, Jim. (11 Sep 2019). "Python vs C++: Selecting the Right Tool for the Job". RealPython.
 * [ [RP](https://realpython.com/intro-to-python-threading/) ] Anderson, Jim. (25 Mar 2019). "An Intro to Threading in Python". RealPython.
 * [ [RP](https://realpython.com/python-concurrency/) ] Anderson, Jim. (14 Jan 2019). "Speed Up Your Python Program With Concurrency". RealPython.
+* [ [RP](https://realpython.com/python-git-github-intro/) ] Anderson, Jim. (04 Apr 2018). "Introduction to Git and GitHub for Python Developers". RealPython.
 * [ [RP](https://realpython.com/practical-prompt-engineering/) ] Breuss, Martin. (09 Aug 2023). "Prompt Engineering: A Practical Example". RealPython.
 * [ [RP](https://realpython.com/if-name-main-python/) ] Breuss, Martin. (21 Sep 2022). "What Does if __name__ == "__main__" Do in Python?". RealPython.
 * [ [RP](https://realpython.com/python-dash/) ] Castillo, Dylan. (20 Feb 2023). "Develop Data Visualization Interfaces in Python With Dash". RealPython.
@@ -26,6 +27,7 @@ RealPython
 * [ [RP](https://realpython.com/pointers-in-python/) ] Jones, Logan. (29 May 2019). "Pointers in Python: What's the Point?". RealPython.
 * [ [RP](https://realpython.com/python-kwargs-and-args/) ] Mastromatteo, Davide. (14 Sep, 2019). "Python args and kwargs: Demystified". RealPython.
 * [ [RP](https://realpython.com/ipython-interactive-python-shell/) ] Matinde, Vincent. (12 Jul 2023). "Unlock IPython's Magical Toolbox for Your Coding Journey". RealPython.
+* [ [RP](https://realpython.com/python-pass-by-reference/) ] Mogyorosi, Marius. (10 Aug 2020). "Pass by Reference in Python: Background and Best Practices". RealPython.
 * [ [RP](https://realpython.com/python-pyqt-gui-calculator/) ] Ramos, Leodanis Pozo. (29 Aug 2022). "Python and PyQt: Building a GUI Desktop Calculator". RealPython.
 * [ [RP](https://realpython.com/python-typer-cli/) ] Ramos, Leodanis Pozo. (08 Nov 2021). "Build a Command-Line To-Do App With Python and Typer". RealPython.
 * [ [RP](https://realpython.com/python-menus-toolbars/) ] Ramos, Leodanis Pozo. (16 Nov 2020). "Python and PyQt: Creating Menus, Toolbars, and Status Bars". RealPython.
@@ -38,8 +40,10 @@ RealPython
 * [ [RP](https://realpython.com/python-maze-solver/) ] Zaczyński, Bartosz. (29 Mar 2023). "Build a Maze Solver in Python Using Graphs". RealPython.
 
 More
-* [ [P](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) ] Anderson, Finn. (15 Apr 2023). "The fastest way to read a CSV file in Pandas 2.0".
+* [ [H](https://cs50.harvard.edu/ai/2023/) ] CS50's Introduction to Artificial Intelligence with Python.
+* [ [P](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) ] Anderson, Finn. (15 Apr 2023). "The fastest way to read a CSV file in Pandas 2.0". Medium.
 * [ [P](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0) ][ [G](https://github.com/PatrickKalkman/python-di) ] Kalkman, Patrick. (14 Apr 2023). "Dependency Injection in Python". Medium.
+* https://www.youtube.com/watch?v=KeIMUw22SZ8
 
 ## Texts
 
