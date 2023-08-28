@@ -25,12 +25,15 @@ RealPython
 * [ [RP](https://realpython.com/python-sockets/) ] Jennings, Nathan. (21 Feb 2022). "Socket Programming in Python (Guide)". RealPython.
 * [ [RP](https://realpython.com/pointers-in-python/) ] Jones, Logan. (29 May 2019). "Pointers in Python: What's the Point?". RealPython.
 * [ [RP](https://realpython.com/python-kwargs-and-args/) ] Mastromatteo, Davide. (14 Sep, 2019). "Python args and kwargs: Demystified". RealPython.
+* [ [RP](https://realpython.com/ipython-interactive-python-shell/) ] Matinde, Vincent. (12 Jul 2023). "Unlock IPython's Magical Toolbox for Your Coding Journey". RealPython.
 * [ [RP](https://realpython.com/python-pyqt-gui-calculator/) ] Ramos, Leodanis Pozo. (29 Aug 2022). "Python and PyQt: Building a GUI Desktop Calculator". RealPython.
 * [ [RP](https://realpython.com/python-typer-cli/) ] Ramos, Leodanis Pozo. (08 Nov 2021). "Build a Command-Line To-Do App With Python and Typer". RealPython.
 * [ [RP](https://realpython.com/python-menus-toolbars/) ] Ramos, Leodanis Pozo. (16 Nov 2020). "Python and PyQt: Creating Menus, Toolbars, and Status Bars". RealPython.
 * [ [RP](https://realpython.com/run-python-scripts/) ] Ramos, Leodanis Pozo. (18 Feb 2019). "How to Run Your Python Scripts". RealPython.
+* [ [RP](https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/) ] RealPython. (18 Aug 2014). "Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK". RealPython.
 * [ [RP](https://realpython.com/cpython-source-code-guide/) ] Shaw, Anthony. (21 Aug 2019). "Your Guide to the CPython Source Code". RealPython.
 * [ [RP](https://realpython.com/async-io-python/) ] Solomon, Brad. (16 Jan 2019). "Async IO in Python: A Complete Walkthrough". RealPython.
+* [ [RP](https://realpython.com/python-super/) ] Stratis, Kyle. (12 Feb 2019). "Supercharge Your Classes With Python super()". RealPython.
 * [ [RP](https://realpython.com/python-memory-management/) ] VanTol, Alexander. (21 Nov 2018). "Memory Management in Python". RealPython.
 * [ [RP](https://realpython.com/python-maze-solver/) ] Zaczyński, Bartosz. (29 Mar 2023). "Build a Maze Solver in Python Using Graphs". RealPython.
 
@@ -42,5 +45,6 @@ More
 
 * [ [G](https://github.com/Kyrand/dataviz-with-python-and-js-ed-2) ] Dale, Kyran. (2022). _Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data_. O'Reilly.
 * [ [G](https://github.com/raerickson/football_book_code) ] Eager, Eric A. & Richard A. Erickson. (2023). _Football Analytics with Python & R: Learning Data Science Through the Lens of Sports_. O'Reilly.
+* [ [H](https://www.statlearning.com/) ] James, Witten, Hastie, Tibshirani, Taylor. (2023). _An Introduction to Statistical Learning with Applications in Python_. Springer.
 * Jolowicz, Claudio. (2024). _Hypermodern Python Tooling: Building Reliable Workflows for an Evolving Python Ecosystem_. O'Reilly.
 * [ [H](https://www.py4e.com/book) ] Severence, Charles. (2016). _Python for Everyone_.
