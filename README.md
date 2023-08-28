@@ -32,192 +32,160 @@ Packages
 * [ [D](https://requests.readthedocs.io/en/latest/) ][ G ][ [P](https://pypi.org/project/requests/) ] Requests
 * [ [D](https://spacy.io/) ][ G ][ [P](https://pypi.org/project/spacy/) ] SpaCy
 
-RealPython
+[RealPython](https://realpython.com)
+* [ [RP](https://realpython.com/coding-font/) ] Acsany, Philipp. (29 May 2023). "Choosing the Best Coding Font for Programming". RealPython.
+* [ [RP](https://realpython.com/python-package-quality/) ] Acsany, Philipp. (15 Mar 2023). "How to Evaluate the Quality of Python Packages". RealPython.
 * [ [RP](https://realpython.com/terminal-commands/) ] Acsany, Philipp. (22 Feb 2023). "The Terminal: First Steps and Useful Commands". RealPython.
+* [ [RP](https://realpython.com/python-ellipsis/) ] Acsany, Philipp. (19 Sep 2022). "When Do You Use an Ellipsis in Python?". RealPython.
+* [ [RP](https://realpython.com/primer-on-jinja-templating/) ] Acsany, Philipp. (27 Jul 2022). "Primer on Jinja Templating". RealPython.
+* [ [RP](https://realpython.com/dependency-management-python-poetry/) ] Acsany, Philipp. (20 Dec 2021). "Dependency Management With Python Poetry". RealPython.
 * [ [RP](https://realpython.com/operator-function-overloading/) ] Agarwal, Malay. (08 May 2018). "Operator and Function Overloading in Custom Python Classes". RealPython.
+* [ [RP](https://realpython.com/build-recommendation-engine-collaborative-filtering/) ] Ajitsaria, Abhinav. (10 Jul 2019). "Build a Recommendation Engine With Collaborative Filtering". RealPython.
+* [ [RP](https://realpython.com/python-logging/) ] Ajitsaria, Abhinav. (12 Sep 2018). "Logging in Python". RealPython.
 * [ [RP](https://realpython.com/python-gil/) ] Ajitsaria, Abhinav. (06 Mar 2018). "What Is the Python Global Interpreter Lock (GIL)?". RealPython.
+* [ [RP](https://realpython.com/python-web-scraping-practical-introduction/) ] Amos, David. (17 oct 2022). "A Practical Introduction to Web Scraping in Python". RealPython.
 * [ [RP](https://realpython.com/python-numbers/) ] Amos, David. (16 Sep 2020). "Numbers in Python". RealPython.
+* [ [RP](https://realpython.com/python-itertools/) ] Amos, David. (30 May 2018). "Itertools in Python 3, By Example". RealPython.
+* [ [RP](https://realpython.com/python-practice-problems/) ] Anderson, Jim. (21 Sep 2020). "Python Practice Problems: Get Ready for Your Next Interview". RealPython.
 * [ [RP](https://realpython.com/c-for-python-programmers/) ] Anderson, Jim. (20 Jan 2021). "C for Python Programmers". RealPython.
 * [ [RP](https://realpython.com/python-vs-cpp/) ] Anderson, Jim. (11 Sep 2019). "Python vs C++: Selecting the Right Tool for the Job". RealPython.
 * [ [RP](https://realpython.com/intro-to-python-threading/) ] Anderson, Jim. (25 Mar 2019). "An Intro to Threading in Python". RealPython.
 * [ [RP](https://realpython.com/python-concurrency/) ] Anderson, Jim. (14 Jan 2019). "Speed Up Your Python Program With Concurrency". RealPython.
-* [ [RP](https://realpython.com/python-git-github-intro/) ] Anderson, Jim. (04 Apr 2018). "Introduction to Git and G for Python Developers". RealPython.
+* [ [RP](https://realpython.com/python-git-github-intro/) ] Anderson, Jim. (04 Apr 2018). "Introduction to Git and GitHub for Python Developers". RealPython.
+* [ [RP](https://realpython.com/k-means-clustering-python/) ] Arvai, Kevin. (20 Jul 2020). "K-Means Clustering in Python: A Practical Guide". RealPython.
+* [ [RP](https://realpython.com/python-boto3-aws-s3/) ] Bolovan, Ralu. (17 Oct 2018). "Python, Boto3, and AWS S3: Demystified". RealPython.
 * [ [RP](https://realpython.com/practical-prompt-engineering/) ] Breuss, Martin. (09 Aug 2023). "Prompt Engineering: A Practical Example". RealPython.
+* [ [RP](https://realpython.com/build-a-chatbot-python-chatterbot) ] Breuss, Martin. (12 Oct 2022). "ChatterBot: Build a Chatbot with Python". RealPython.
 * [ [RP](https://realpython.com/if-name-main-python/) ] Breuss, Martin. (21 Sep 2022). "What Does if __name__ == "__main__" Do in Python?". RealPython.
+* [ [RP](https://realpython.com/asynchronous-tasks-with-django-and-celery/) ] Breuss, Martin. (01 Aug 2022). "Asynchronous Tasks With Django and Celery" Do in Python?". RealPython.
+* [ [RP](https://realpython.com/python-project-documentation-with-mkdocs/) ] Breuss, Martin. (15 Jun 2022). "Build Your Python Project Documentation With MkDocs". RealPython.
+* [ [RP](https://realpython.com/python-scipy-linalg/) ] Candido, Renato. (18 Jan 2023). "Working With Linear Systems in Python With scipy.linalg". RealPython.
 * [ [RP](https://realpython.com/python-dash/) ] Castillo, Dylan. (20 Feb 2023). "Develop Data Visualization Interfaces in Python With Dash". RealPython.
+* [ [RP](https://realpython.com/python-subprocess/) ] Currie, Ian. (13 Jun 2022). "The subprocess Module: Wrapping Programs With Python
+". RealPython.
+* [ [RP](https://realpython.com/why-close-file-python/) ] Currie, Ian. (27 Apr 2022). "Why Is It Important to Close Files in Python?". RealPython.
+* [ [RP](https://realpython.com/python-memcache-efficient-caching/) ] Danjou, Julien. (30 Jan 2018). "Python + Memcached: Efficient Caching in Distributed Applications". RealPython.
+* [ [RP](https://realpython.com/python-is-identity-vs-equality) ] De Langen, Joska. (29 Jan 2020). "Python '!=' Is Not 'is not': Comparing Objects in Python". RealPython.
+* [ [RP](https://realpython.com/playing-and-recording-sound-python/) ] De Langen, Joska. (13 May 2019). "Playing and Recording Sound in Python". RealPython.
+* [ [RP](https://realpython.com/python-input-integer/) ] De Villiers, Charles. (27 Mar 2023). "How to Read Python Input as Integers". RealPython.
+* [ [RP](https://realpython.com/python-gui-with-wxpython/) ] Driscoll, Mike. (18 Mar 2019). "How to Build a Python GUI Application With wxPython". RealPython.
+* [ [RP](https://realpython.com/python-sqlite-sqlalchemy/) ] Farrell, Doug. (14 Oct 2020). "Data Management With Python, SQLite, and SQLAlchemy". RealPython.
 * [ [RP](https://realpython.com/oop-in-python-vs-java/) ] Fincher, Jon. (03 Jun 2019). "Object-Oriented Programming in Python vs Java". RealPython.
+* [ [RP](https://realpython.com/python-ides-code-editors-guide/) ] Fincher, Jon. (13 Mar 2018). "Python IDEs and Code Editors (Guide)". RealPython.
+* [ [RP](https://realpython.com/twitter-bot-python-tweepy) ] Garcia, Miguel. (10 Jun 2019). "How to Make a Twitter Bot in Python With Tweepy". RealPython.
+* [ [RP](https://realpython.com/python-optional-arguments) ] Gruppetta, Stephen. (30 Aug 2021). "Using Python Optional Arguments When Defining Functions". RealPython.
+* [ [RP](https://realpython.com/invalid-syntax-python/) ] Hansen, Chad. (20 Nov 2019). "Invalid Syntax in Python: Common Reasons for SyntaxError". RealPython.
+* [ [RP](https://realpython.com/python-traceback/) ] Hansen, Chad. (29 Jul 2019). "Understanding the Python Traceback". RealPython.
+* [ [RP](https://realpython.com/offline-python-deployments-with-docker/) ] Herman, Michael. (24 Jan 2018). "Simplifying Offline Python Deployments With Docker". RealPython.
+* [ [RP](https://realpython.com/pytest-python-testing/) ] Hillard, Dane. (22 Jun 2022). "Effective Python Testing WIth Pytest". RealPython.
+* [ [RP](https://realpython.com/python-microservices-grpc/) ] Hipschman, Dan. (10 Feb 2021). "Python Microservices With gRPC". RealPython.
 * [ [RP](https://realpython.com/python-pathlib/) ] Hjelle, Geir Arne. (17 Apr 2023). "Python's pathlib Module: Taming the File System". RealPython.
+* [ [RP](https://realpython.com/python-minimax-nim/) ] Hjelle, Geir Arne. (05 Oct 2022). "Minimax in Python: Learn How to Lose the Game of Nim". RealPython.
+* [ [RP](https://realpython.com/python-pre-release/) ] Hjelle, Geir Arne. (31 Aug 2022). "How Can You Install a Pre-Release Version of Python". RealPython.
+* [ [RP](https://realpython.com/python-toml/) ] Hjelle, Geir Arne. (11 Jul 2022). "Python and TOML: New Best Friends". RealPython.
+* [ [RP](https://realpython.com/python311-tomllib/) ] Hjelle, Geir Arne. (04 Jul 2022). "Python 3.11 Preview: TOML and tomllib". RealPython
+* [ [RP](https://realpython.com/pypi-publish-python-package/) ] Hjelle, Geir Arne. (23 May 2022). "How to Publish an Open-Source Python Package to PyPI". RealPython.
+* [ [RP](https://realpython.com/python-import/) ] Hjelle, Geir Arne. (08 Jul 2020). "Python import: Advanced Techniques and Tips". RealPython.
+* [ [RP](https://realpython.com/python-versions-docker/) ] Hjelle, Geir Arne. (18 Dec 2019). "Run Python Version in Docker: How to Try the Latest Python Release". RealPython.
+* [ [RP](https://realpython.com/python-type-checking/) ] Hjelle, Geir Arne. (07 Jan 2019). "Python Type Checking (Guide)". RealPython.
+* [ [RP](https://realpython.com/primer-on-python-decorators/) ] Hjelle, Geir Arne. (22 Aug 2018). "Primer on Python Decorators". RealPython.
+* [ [RP](https://realpython.com/python-data-classes/) ] Hjelle, Geir Arne. (15 May 2018). "Data Classes in Python 3.7+ (Guide)". RealPython.
 * [ [RP](https://realpython.com/polars-python/) ] Hoffman, Harrison. (16 Aug 2023). "Python Polars: A Lightning-Fast DataFrame Library". RealPython.
+* [ [RP](https://realpython.com/traditional-face-detection-python/) ] Ivancic, Kristijan. (27 Feb 2019). "Traditional Face Detection With Python
+". RealPython.
+* [ [RP](https://realpython.com/python-range/) ] Jablonski, Joanna. (15 Oct 2018). "The Python range() Function (Guide)". RealPython.
 * [ [RP](https://realpython.com/python-sockets/) ] Jennings, Nathan. (21 Feb 2022). "Socket Programming in Python (Guide)". RealPython.
+* [ [RP](https://realpython.com/python-debugging-pdb/) ] Jennings, Nathan. (09 Apr 2018). "Python Debugging With Pdb". RealPython.
+* [ [RP](https://realpython.com/python-https/) ] Jones, Logan. (08 Jan 2020). "Exploring HTTPS With Python". RealPython.
 * [ [RP](https://realpython.com/pointers-in-python/) ] Jones, Logan. (29 May 2019). "Pointers in Python: What's the Point?". RealPython.
-* [ [RP](https://realpython.com/python-kwargs-and-args/) ] Mastromatteo, Davide. (14 Sep, 2019). "Python args and kwargs: Demystified". RealPython.
+* [ [RP](https://realpython.com/intro-to-pyenv/) ] Jones, Logan. (11 Mar 2019). "Managing Multiple Python Versions With pyenv". RealPython.
+* [ [RP](https://realpython.com/python-scipy-fft/) ] MacLeod, Cameron. (02 Nov 2020). "Fourier Transforms WIth scipy.ft: Python Signal Processing". RealPython.
+* [ [RP](https://realpython.com/python-descriptors/) ] Mastromatteo, Davide. (27 Nov, 2019). "Python Descriptors: An Introduction". RealPython.
+* [ [RP](https://realpython.com/python-kwargs-and-args/) ] Mastromatteo, Davide. (04 Sep, 2019). "Python args and kwargs: Demystified". RealPython.
 * [ [RP](https://realpython.com/ipython-interactive-python-shell/) ] Matinde, Vincent. (12 Jul 2023). "Unlock IPython's Magical Toolbox for Your Coding Journey". RealPython.
+* [ [RP](https://realpython.com/read-write-files-python/) ] Mertz, James. (20 Feb 2019). "Reading and Writing Files in Python (Guide)". RealPython.
+* [ [RP](https://realpython.com/documenting-python-code) ] Mertz, James. (25 Jul 2018). "Documenting Python Code: A Complete Guide". RealPython.
 * [ [RP](https://realpython.com/python-pass-by-reference/) ] Mogyorosi, Marius. (10 Aug 2020). "Pass by Reference in Python: Background and Best Practices". RealPython.
+* [ [RP](https://realpython.com/python-interface/) ] Murphy, William. (10 Feb 2020). "Implementing an Interface in Python". RealPython.
+* [ [RP](https://realpython.com/working-with-files-in-python/) ] Ndlovo, Vuyisile. (21 Jan 2019). "Working With Files in Python". RealPython.
+* [ [RP](https://realpython.com/absolute-vs-relative-python-imports/) ] Nzomo, Mbithe. (19 Sep 2018). "Absolute vs Relative Imports in Python". RealPython.
+* [ [RP](https://realpython.com/python-mutable-vs-immutable-types/) ] Ramos, Leodanis Pozo. (08 Mar 2023). "Python's Mutable vs Immutable Types: What's the Difference?". RealPython.
+* [ [RP](https://realpython.com/python-repl/) ] Ramos, Leodanis Pozo. (25 Jan 2023). "The Python Standard REPL: Try Out Code and Ideas Quickly". RealPython.
+* [ [RP](https://realpython.com/python-assignment-operator/) ] Ramos, Leodanis Pozo. (16 Jan 2023). "Python's Assignment Operator: Write Robust Assignments". RealPython.
+* [ [RP](https://realpython.com/python-in-operator/) ] Ramos, Leodanis Pozo. (19 Dec 2022). "Python's "in" and "not in" Operators: Check for Membership". RealPython.
+* [ [RP](https://realpython.com/inherit-python-list/) ] Ramos, Leodanis Pozo. (12 Sep 2022). "Custom Python Lists: Inheriting From list vs UserList". RealPython.
 * [ [RP](https://realpython.com/python-pyqt-gui-calculator/) ] Ramos, Leodanis Pozo. (29 Aug 2022). "Python and PyQt: Building a GUI Desktop Calculator". RealPython.
+* [ [RP](https://realpython.com/python-exec/) ] Ramos, Leodanis Pozo. (24 Aug 2022). "Python's exec(): Execute Dynamically Generated Code". RealPython.
+* [ [RP](https://realpython.com/python-constants/) ] Ramos, Leodanis Pozo. (03 Aug 2022). "Python Constants: Improve Your Code's Maintainability". RealPython.
+* [ [RP](https://realpython.com/tic-tac-toe-python/) ] Ramos, Leodanis Pozo. (27 Jun 2022). "Build a Tic-Tac-Toe Game With Python and Tkinter". RealPython.
+* [ [RP](https://realpython.com/python-min-and-max/) ] Ramos, Leodanis Pozo. (02 May 2022). "Python's min() and Max(): Find Smallest and Largest Values". RealPython.
+* [ [RP](https://realpython.com/site-connectivity-checker-python/) ] Ramos, Leodanis Pozo. (06 Apr 2022). "Build a Site Connectivity Checker in Python". RealPython.
+* [ [RP](https://realpython.com/python-assert-statement/) ] Ramos, Leodanis Pozo. (23 Feb 2022). "Python's assert: Debug and Test Your COde Like a Pro". RealPython.
 * [ [RP](https://realpython.com/python-typer-cli/) ] Ramos, Leodanis Pozo. (08 Nov 2021). "Build a Command-Line To-Do App With Python and Typer". RealPython.
+* [ [RP](https://realpython.com/python-property/) ] Ramos, Leodanis Pozo. (13 Oct 2021). "Python's property(): Add Managed Attributes to Your Classes". RealPython.
+* [ [RP](https://realpython.com/python-namedtuple/) ] Ramos, Leodanis Pozo. (12 May 2021). "Write Pythonic and Clean Code With namedtuple". RealPython.
+* [ [RP](https://realpython.com/python-contact-book/) ] Ramos, Leodanis Pozo. (10 Mar 2021). "Build a Contact Book With Python, PyQt, and SQLite". RealPython.
 * [ [RP](https://realpython.com/python-menus-toolbars/) ] Ramos, Leodanis Pozo. (16 Nov 2020). "Python and PyQt: Creating Menus, Toolbars, and Status Bars". RealPython.
+* [ [RP](https://realpython.com/python-return-statement/) ] Ramos, Leodanis Pozo. (28 Sep 2020). "The Python return Statement: Usage and Best Practices". RealPython.
+* [ [RP](https://realpython.com/python-reduce-function/) ] Ramos, Leodanis Pozo. (29 Jun 2020). "Python's reduce(): From Functional to Pythonic Style". RealPython.
+* [ [RP](https://realpython.com/python-zip-function/) ] Ramos, Leodanis Pozo. (02 Oct 2019). "Using the Python zip() Function for Parallel Iteration". RealPython.
 * [ [RP](https://realpython.com/run-python-scripts/) ] Ramos, Leodanis Pozo. (18 Feb 2019). "How to Run Your Python Scripts". RealPython.
+* [ [RP](https://realpython.com/installing-python/) ] RealPython. (31 Aug 2020). "Python 3 Installation & Setup Guide". RealPython.
+* [ [RP](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/) ] RealPython. (29 Dec 2015). "Development and Deployment of Cookiecutter-Django via Docker". RealPython.
+* [ [RP](https://realpython.com/vim-and-python-a-match-made-in-heaven/) ] RealPython. (27 Oct 2015). "VIM and Python - A Match Made in Heaven". RealPython.
+* [ [RP](https://realpython.com/django-development-with-docker-compose-and-machine/) ] RealPython. (18 May 2015). "Django Development with Docker Compose and Machine". RealPython.
+* [ [RP](https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/) ] RealPython. (17 Apr 2015). "Dockerizing Flask With Compose and Machine - From Localhost to the Cloud". RealPython.
+* [ [RP](https://realpython.com/deploying-a-django-app-on-dokku/) ] RealPython. (01 Dec 2014). "Deploying Django on Dokku". RealPython.
+* [ [RP](https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/) ] RealPython. (13 Nov 2014). "Twitter Sentiment Analysis - Python, Docker, Elasticsearch, Kibana". RealPython.
 * [ [RP](https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/) ] RealPython. (18 Aug 2014). "Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK". RealPython.
+* [ [RP](https://realpython.com/any-python/) ] Ronquillo, Alex. (30 Mar 2020). "How to Use any() in Python". RealPython.
 * [ [RP](https://realpython.com/cpython-source-code-guide/) ] Shaw, Anthony. (21 Aug 2019). "Your Guide to the CPython Source Code". RealPython.
+* [ [RP](https://realpython.com/python-testing/) ] Shaw, Anthony. (22 Oct 2018). "Getting Started With Testing in Python". RealPython.
+* [ [RP](https://realpython.com/intermediate-python-project-ideas/) ] Shopeju, Habeeb. (20 Mar 2019). "13 Project Ideas for Intermediate Python Developers". RealPython.
+* [ [RP](https://realpython.com/python-ipaddress-module/) ] Solomon, Brad. (13 Jul 2020). "Learn IP Address Concepts With Python's ipaddress Module". RealPython.
+* [ [RP](https://realpython.com/python-encodings-guide/) ] Solomon, Brad. (20 May 2019). "Unicode & Character Encodings in Python: A Painless Guide". RealPython.
 * [ [RP](https://realpython.com/async-io-python/) ] Solomon, Brad. (16 Jan 2019). "Async IO in Python: A Complete Walkthrough". RealPython.
+* [ [RP](https://realpython.com/python-pandas-tricks/) ] Solomon, Brad. (29 Aug 2018). "Python pandas: Tricks and Features You May Not Know". RealPython.
+* [ [RP](https://realpython.com/python-random/) ] Solomon, Brad. (11 Jul 2018). "Generating Random Data in Python (Guide)". RealPython.
+* [ [RP](https://realpython.com/linear-regression-in-python/) ] Stojiljković, Mirko. (16 May 2022). "Linear Regression in Python". RealPython.
+* [ [RP](https://realpython.com/linear-programming-python/) ] Stojiljković, Mirko. (22 Jun 2020). "Hands-On Linear Programming: Optimization With Python
+". RealPython.
+* [ [RP](https://realpython.com/storing-images-in-python/) ] Stone, Rebecca. (15 May 2019). "Three Ways of Storing and Accessing Lots of Images in Python". RealPython.
+* [ [RP](https://realpython.com/pandas-merge-join-and-concat/) ] Stratis, Kyle. (25 Apr 2022). "Combining Data in Pandas With merge(), join(), and concat()". RealPython.
+* [ [RP](https://realpython.com/introduction-to-python-generators) ] Stratis, Kyle. (25 Sep 2019). "How to Use Generators and yield in Python". RealPython.
 * [ [RP](https://realpython.com/python-super/) ] Stratis, Kyle. (12 Feb 2019). "Supercharge Your Classes With Python super()". RealPython.
+* [ [RP](https://realpython.com/python-namespaces-scope/) ] Sturtz, John. (29 Jul 2020). "Namespaces and Scope in Python". RealPython.
+* [ [RP](https://realpython.com/regex-python-part-2/) ] Sturtz, John. (03 Jun 2020). "Regular Expressions: Regexes in Python (Part 2)". RealPython.
+* [ [RP](https://realpython.com/regex-python/) ] Sturtz, John. (29 Apr 2020). "Regular Expressions: Regexes in Python (Part 1)". RealPython.
+* [ [RP](https://realpython.com/defining-your-own-python-function/) ] Sturtz, John. (09 Mar 2020). "Defining Your Own Python Function". RealPython.
+* [ [RP](https://realpython.com/python-for-loop/) ] Sturtz, John. (30 Jan 2019). "Python "for" Loops (Definite Iteration)". RealPython.
+* [ [RP](https://realpython.com/python-conditional-statements/) ] Sturtz, John. (05 Sep 2018). "Conditional Statements in Python". RealPython.
+* [ [RP](https://realpython.com/python-lists-tuples/) ] Sturtz, John. (18 Jul 2018). "Lists and Tuples in Python". RealPython.
+* [ [RP](https://realpython.com/python-operators-expressions) ] Sturtz, John. (20 Jun 2018). "Operators and Expressions in Python". RealPython.
+* [ [RP](https://realpython.com/python-metaclasses/) ] Sturtz, John. (01 May 2018). "Python Metaclasses". RealPython.
+* [ [RP](https://realpython.com/python-modules-packages/) ] Sturtz, John. (17 Apr 2018). "Python Modules and Packages - An Introduction". RealPython.
+* [ [RP](https://realpython.com/list-comprehension-python/) ] Timmins, James. (06 Nov 2019). "When to Use a List Comprehension in Python". RealPython.
+* [ [RP](https://realpython.com/python-coding-interview-tips/) ] Timmins, James. (27 Mar 2019). "How to Stand Out in a Python Coding Interview". RealPython.
+* [ [RP](https://realpython.com/python-exceptions/) ] Van De Klundert, Said. (30 Apr 2018). "Python Excpetions: An Introduction". RealPython.
+* [ [RP](https://realpython.com/python-modulo-operator/) ] Van Schooneveld, Jason. (26 Oct 2020). "Python Module in Practice: How to Use the % Operator". RealPython.
+* [ [RP](https://realpython.com/flask-google-login) ] VanTol, Alexander. (17 Jul 2019). "Create a Flask Application with Google Login". RealPython.
 * [ [RP](https://realpython.com/python-memory-management/) ] VanTol, Alexander. (21 Nov 2018). "Memory Management in Python". RealPython.
-* [ [RP](https://realpython.com/python-maze-solver/) ] Zaczyński, Bartosz. (29 Mar 2023). "Build a Maze Solver in Python Using Graphs". RealPython.
-
-[RealPython](https://realpython.com)
-* [[RealPython](https://realpython.com/python-profiling/)] Zaczyński. (10 Jul 2023). "Profiling in Python: How to Find Performance Bottlenecks". RealPython.
-* [[RealPython](https://realpython.com/coding-font/)] Acsany, Philipp. (29 May 2023). "Choosing the Best Coding Font for Programming". RealPython.
-* [[RealPython](https://realpython.com/pypi-publish-python-package/)] Hjelle, Geir Arne. (23 May 2022). "How to Publish an Open-Source Python Package to PyPI". RealPython.
-* [[RealPython](https://realpython.com/python-http-server/)] Zaczyński, Bartosz. (22 May 2023). "How to Launch an HTTP Server in One Line of Python Code". RealPython.
-* [[RealPython](https://realpython.com/docker-continuous-integration)] Zaczyński, Bartosz. (08 May 2023). "Build Robust Continuous Integration With Docker and Friends". RealPython.
-* [[RealPython](https://realpython.com/python-maze-solver)] Zaczyński, Bartosz. (29 Mar 2023). "Builds a Maze Solver in Python Using Graphs". RealPython.
-* [[RealPython](https://realpython.com/python-input-integer/)] De Villiers, Charles. (27 Mar 2023). "How to Read Python Input as Integers". RealPython.
-* [[RealPython](https://realpython.com/python-package-quality/)] Acsany, Philipp. (15 Mar 2023). "How to Evaluate the Quality of Python Packages". RealPython.
-* [[RealPython](https://realpython.com/python-mutable-vs-immutable-types/)] Ramos, Leodanis Pozo. (08 Mar 2023). "Python's Mutable vs Immutable Types: What's the Difference?". RealPython.
-* [[RealPython](https://realpython.com/python-repl/)] Ramos, Leodanis Pozo. (25 Jan 2023). "The Python Standard REPL: Try Out Code and Ideas Quickly". RealPython.
-* [[RealPython](https://realpython.com/python-assignment-operator/)] Ramos, Leodanis. (16 Jan 2023). "Python's Assignment Operator: Write Robust Assignments". RealPython.
-* [[RealPython](https://realpython.com/python-in-operator/)] Ramos, Leodanis Pozo. (19 Dec 2022). "Python's "in" and "not in" Operators: Check for Membership". RealPython.
-* [[RealPython](https://realpython.com/build-a-chatbot-python-chatterbot)] Breuss, Martin. (12 Oct 2022). "ChatterBot: Build a Chatbot with Python". RealPython.
-* [[RealPython](https://realpython.com/python-ellipsis/)] Acsany, Philipp. (19 Sep 2022). "When Do You Use an Ellipsis in Python?". RealPython.
-* [[RealPython](https://realpython.com/python-pre-release/)] Hjelle, Geir Arne. (31 Aug 2022). "How Can You Install a Pre-Release Version of Python". RealPython.
-* [[RealPython](https://realpython.com/python-constants/)] Ramos, Leodanis Pozo. (03 Aug 2022). "Python Constants: Improve Your Code's Maintainability". RealPython.
-* [[RealPython](https://realpython.com/python-toml/)] Hjelle, Geir Arne. (11 Jul 2022). "Python and TOML: New Best Friends". RealPython.
-* [[RealPython](https://realpython.com/python-project-documentation-with-mkdocs/)] Breuss, Martin. (15 Jun 2022). "Build Your Python Project Documentation With MkDocs". RealPython.
-* [[RealPython](https://realpython.com/pypi-publish-python-package/)] Hjelle, Geir Arne. (23 May 2022). "How to Publish an Open-Source Python Package to PyPI". RealPython.
-* [[RealPython](https://realpython.com/python-min-and-max/)] Ramos, Leodanis Pozo. (02 May 2022). "Python's min() and Max(): Find Smallest and Largest Values". RealPython.
-* [[RealPython](https://realpython.com/python-hash-table)] Zaczyński, Bartosz. (16 Mar 2022). "Build a Hash Table in Python with TDD". RealPython.
-* [[RealPython](https://realpython.com/python-sockets/)] Jennings, Nathan. (21 Feb 2022). "Socket Programming in Python (Guide)". RealPython.
-* [[RealPython](https://realpython.com/python-property/)] Ramos, Leodanis Pozo. (13 Oct 2021). "Python's property(): Add Managed Attributes to Your Classes". RealPython.
-* [[RealPython](https://realpython.com/python-optional-arguments)] Gruppetta, Stephen. (30 Aug 2021). "Using Python Optional Arguments When Defining Functions". RealPython.
-* [[RealPython](https://realpython.com/python-namedtuple/)] Ramos, Leodanis Pozo. (12 May 2021). "Write Pythonic and Clean Code With namedtuple". RealPython.
-* [[RealPython](https://realpython.com/python-microservices-grpc/)] Hipschman, Dan. (10 Feb 2021). "Python Microservices With gRPC". RealPython.
-* [[RealPython](https://realpython.com/python-pass/)] Zadka, Moshe. (16 Dec 2020). "The pass Statement: How to Do Nothing in Python". RealPython.
-* [[RealPython](https://realpython.com/python-bitwise-operators/)] Zaczyński. (09 Dec 2020). "Bitwise Operators in Python". RealPython.
-* [[RealPython](https://realpython.com/python-modulo-operator/)] Van Schooneveld, Jason. (26 Oct 2020). "Python Module in Practice: How to Use the % Operator". RealPython.
-* [[RealPython](https://realpython.com/python-boolean/)] Zadka, Moshe. (19 Oct 2020). "Python Booleans: Use Truth Values in Your Code". RealPython.
-* [[RealPython](https://realpython.com/python-return-statement/)] Ramos, Leodanis Pozo. (28 Sep 2020). "The Python return Statement: Usage and Best Practices". RealPython.
-* [[RealPython](https://realpython.com/python-practice-problems/)] Anderson, Jim. (21 Sep 2020). "Python Practice Problems: Get Ready for Your Next Interview". RealPython.
-* [[RealPython](https://realpython.com/python-reduce-function/)] Ramos, Leodanis Pozo. (29 Jun 2020). "Python's reduce(): From Functional to Pythonic Style". RealPython.
-* [[RealPython](https://realpython.com/any-python/)] Ronquillo, Alex. (30 Mar 2020). "How to Use any() in Python". RealPython.
-* [[RealPython](https://realpython.com/simpy-simulating-with-python/)] Zhané, Jaya. (25 Mar 2020). "SimPy: Simulating Real-World Processes With Python". RealPython.
-* [[RealPython](https://realpython.com/defining-your-own-python-function/)] Sturtz, John. (09 Mar 2020). "Defining Your Own Python Function". RealPython.
-* [[RealPython](https://realpython.com/null-in-python/)] Wolf. (19 Feb 2020). "Null in Python: Understanding Python's NoneType Object". RealPython.
-* [[RealPython](https://realpython.com/python-is-identity-vs-equality)] De Langen, Joska. (29 Jan 2020). "Python '!=' Is Not 'is not': Comparing Objects in Python". RealPython.
-* [[RealPython](https://realpython.com/python-https/)] Jones, Logan. (08 Jan 2020). "Exploring HTTPS With Python". RealPython.
-* [[RealPython](https://realpython.com/python-versions-docker/)] Hjelle, Geir Arne. (18 Dec 2019). "Run Python Version in Docker: How to Try the Latest Python Release". RealPython.
-* [[RealPython](https://realpython.com/python-descriptors/)] Mastromatteo, Davide. (27 Nov, 2019). "Python Descriptors: An Introduction". RealPython.
-* [[RealPython](https://realpython.com/invalid-syntax-python/)] Hansen, Chad. (20 Nov 2019). "Invalid Syntax in Python: Common Reasons for SyntaxError". RealPython.
-* [[RealPython](https://realpython.com/list-comprehension-python/)] Timmins, James. (06 Nov 2019). "When to Use a List Comprehension in Python". RealPython.
-* [[RealPython](https://realpython.com/python-zip-function/)] Ramos, Leodanis Pozo. (02 Oct 2019). "Using the Python zip() Function for Parallel Iteration". RealPython.
-* [[RealPython](https://realpython.com/introduction-to-python-generators)] Stratis, Kyle. (25 Sep 2019). "How to Use Generators and yield in Python". RealPython.
-* [[RealPython](https://realpython.com/python-kwargs-and-args/)] Mastromatteo, Davide. (04 Sep 2019). "Python args and kwargs: Demystified". RealPython.
-* [[RealPython](https://realpython.com/python-traceback/)] Hansen, Chad. (29 Jul 2019). "Understanding the Python Traceback". RealPython.
-* [[RealPython](https://realpython.com/flask-google-login)] VanTol, Alexander. (17 Jul 2019). "Create a Flask Application with Google Login". RealPython.
-* [[RealPython](https://realpython.com/twitter-bot-python-tweepy)] Garcia, Miguel. (10 Jun 2019). "How to Make a Twitter Bot in Python With Tweepy". RealPython.
-* [[RealPython](https://realpython.com/storing-images-in-python/)] Stone, Rebecca. (15 May 2019). "Three Ways of Storing and Accessing Lots of Images in Python". RealPython.
-* [[RealPython](https://realpython.com/playing-and-recording-sound-python/)] De Langen, Joska. (13 May 2019). "Playing and Recording Sound in Python". RealPython.
-* [[RealPython](https://realpython.com/intro-to-pyenv/)] Jones, Logan. (11 Mar 2019). "Managing Multiple Python Versions With pyenv". RealPython.
-* [[RealPython](https://realpython.com/run-python-scripts/)] Ramos, Leodanis Pozo. (18 Feb 2019). "How to Run Your Python Scripts". RealPython.
-* [[RealPython](https://realpython.com/python-for-loop/)] Sturtz, John. (30 Jan 2019). "Python "for" Loops (Definite Iteration)". RealPython.
-* [[RealPython](https://realpython.com/python-type-checking/)] Hjelle, Geir Arne. (07 Jan 2019). "Python Type Checking (Guide)". RealPython.
-* [[RealPython](https://realpython.com/python-testing/)] Shaw, Anthony. (22 Oct 2018). "Getting Started With Testing in Python". RealPython.
-* [[RealPython](https://realpython.com/python-range/)] Jablonski, Joanna. (15 Oct 2018). "The Python range() Function (Guide)". RealPython.
-* [[RealPython](https://realpython.com/absolute-vs-relative-python-imports/)] Nzomo, Mbithe. (19 Sep 2018). "Absolute vs Relative Imports in Python". RealPython.
-* [[RealPython](https://realpython.com/python-conditional-statements/)] Sturtz, John. (05 Sep 2018). "Conditional Statements in Python". RealPython.
-* [[RealPython](https://realpython.com/primer-on-python-decorators/)] Hjelle, Geir Arne. (22 Aug 2018). "Primer on Python Decorators". RealPython.
-* [[RealPython](https://realpython.com/python-code-quality/)] VanTol, Alexander. (30 Jul 2018). "Python Code Quality: Tools & Best Practices". RealPython.
-* [[RealPython](https://realpython.com/documenting-python-code)] Mertz, James. (25 Jul 2018). "Documenting Python Code: A Complete Guide". RealPython.
-* [[RealPython](https://realpython.com/python-lists-tuples/)] Sturtz, John. (18 Jul 2018). "Lists and Tuples in Python". RealPython.
-* [[RealPython](https://realpython.com/python-operators-expressions)] Sturtz, John. (20 Jun 2018). "Operators and Expressions in Python". RealPython.
-* [[RealPython](https://realpython.com/python-data-classes/)] Hjelle, Geir Arne. (15 May 2018). "Data Classes in Python 3.7+ (Guide)". RealPython.
-* [[RealPython](https://realpython.com/python-exceptions/)] Van De Klundert, Said. (30 Apr 2018). "Python Excpetions: An Introduction". RealPython.
-* [[RealPython](https://realpython.com/python-modules-packages/)] Sturtz, John. (17 Apr 2018). "Python Modules and Packages - An Introduction". RealPython.
-* [[RealPython](https://realpython.com/python-ides-code-editors-guide/)] Fincher, John. (13 Mar 2018). "Python IDEs and Code Editors (Guide)". RealPython.
-* [[RealPython](https://realpython.com/offline-python-deployments-with-docker/)] Herman, Michael. (24 Jan 2018). "Simplifying Offline Python Deployments With Docker". RealPython.
-* [[RealPython](https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/)] (29 Dec 2015). "Development and Deployment of Cookiecutter-Django via Docker". RealPython.
-* [[RealPython](https://realpython.com/django-development-with-docker-compose-and-machine/)] (18 May 2015). "Django Development with Docker Compose and Machine". RealPython.
-* [[RealPython](https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/)] (17 Apr 2015). "Dockerizing Flask With Compose and Machine - From Localhost to the Cloud". RealPython.
-* [[RealPython](https://realpython.com/deploying-a-django-app-on-dokku/)] (01 Dec 2014). "Deploying Django on Dokku". RealPython.
-* [[RealPython](https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/)] (13 Nov 2014). "Twitter Sentiment Analysis - Python, Docker, Elasticsearch, Kibana". RealPython.
-* [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
-* [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
-* [Asynchronous Tasks With Django and Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
-* [Bitwise Operators in Python](https://realpython.com/python-bitwise-operators/)
-* [Build a Contact Book With Python, PyQT, and SQLite](https://realpython.com/python-contact-book/)
-* [Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
-* [Build a Tic-Tac-Toe Game Engine With an AI Player in Python](https://realpython.com/tic-tac-toe-ai-python/)
-* [Build a Tic-Tac-Toe Game With Python and Tkinter](https://realpython.com/tic-tac-toe-python/)
-* [Building a Site Connectivity Checker](https://realpython.com/courses/python-site-connectivity-checker/)
-* [Build a Site Connectivity Checker in Python](https://realpython.com/site-connectivity-checker-python/)
-* [Building a Django User Management System](https://realpython.com/courses/building-a-django-user-management-system/)
-* [ChatterBot: Build a Chatbot With Python](https://realpython.com/build-a-chatbot-python-chatterbot/)
-* [Combining Data in Pandas With merge(), .join(), and concat()](https://realpython.com/pandas-merge-join-and-concat/)
-* [CPython Internals](https://realpython.com/products/cpython-internals-book/)
-* [Custom Python Lists: Inheriting From list vs UserList](https://realpython.com/inherit-python-list/)
-* [Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)
-* [Dependency Management With Python Poetry](https://realpython.com/dependency-management-python-poetry/)
-* [DevOps With Python](https://realpython.com/learning-paths/python-devops/)
-* [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
-* [Fourier Transforms With scipy.fft: Python Signal Processing](https://realpython.com/python-scipy-fft/)
-* [Generating Random Data in Python (Guide)](https://realpython.com/python-random/)
-* [Getting Started With pdb](https://realpython.com/lessons/getting-started-pdb/)
-* [Getting Started With Testing in Python](https://realpython.com/python-testing/)
-* [GUI Programming With PyQt](https://realpython.com/learning-paths/pyqt-gui-programming/)
-* [Hands-On Linear Programming: Optimization with Python](https://realpython.com/linear-programming-python/)
-* [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython/)
-* [How to Stand Out in a Python Coding Interview](https://realpython.com/python-coding-interview-tips/)
-* [How to Use any() in Python](https://realpython.com/any-python/)
-* [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
-* [Implmenting an Interface in Python](https://realpython.com/python-interface/)
-* [Intro to Dependency Management](https://realpython.com/lessons/introduction-dependency-management/)
-* [Introduction to Git and GitHub for Python Developers](https://realpython.com/python-git-github-intro/)
-* [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
-* [K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/)
-* [Learn IP Address Concepts With Python's ipaddress Module](https://realpython.com/python-ipaddress-module/)
-* [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
-* [Logging in Python](https://realpython.com/python-logging/)
-* [Make Your First Python Game: Rock, Paper, Scissors!](https://realpython.com/python-rock-paper-scissors/)
-* [Memory Management in Python](https://realpython.com/python-memory-management/)
-* [Minimax in Python: Learn How to Lose the Game of Nim](https://realpython.com/python-minimax-nim/)
-* [Namespaces and Scope in Python](https://realpython.com/python-namespaces-scope/)
-* [Operator and Function Overloading in Custom Python Classes](https://realpython.com/operator-function-overloading/)
-* [Pandas merge, join, concat](https://realpython.com/pandas-merge-join-and-concat/)
-* [Perfect Your Python Development Setup](https://realpython.com/learning-paths/perfect-your-python-development-setup/)
-* [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
-* [Python + Memcached: Efficient Caching in Distributed Applications](https://realpython.com/python-memcache-efficient-caching/)
-* [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
-* [Python 3.11 Preview: TOML and tomllib](https://realpython.com/python311-tomllib/)
-* [Python and PyQt: Creating Menus, Toolbars, and Status Bars](https://realpython.com/python-menus-toolbars/)
-* [Python Concurrency & Parallel Programming](https://realpython.com/learning-paths/python-concurrency-parallel-programming/)
-* [Python Debugging With Pdb](https://realpython.com/python-debugging-pdb/)
-* [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/)
-* [Python DevOps Tutorials](https://realpython.com/tutorials/devops/)
-* [Python import: Advanced Techniques and Tips](https://realpython.com/python-import/)
-* [Python Metaclasses](https://realpython.com/python-metaclasses/)
-* [Python Pandas: Tricks & Features You May Not Know](https://realpython.com/python-pandas-tricks/)
-* [Python's assert: Debug and Test Your Code Like a Pro](https://realpython.com/python-assert-statement/)
-* [Python's exec(): Execute Dynamically Generated Code](https://realpython.com/python-exec/)
-* [Python, Boto3, and AWS S3: Demystified](https://realpython.com/courses/python-boto3-aws-s3/)
-* [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
-* [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
-* [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)
-* [Representing Rational Numbers with Python Fractions](https://realpython.com/python-fractions/)
-* [Simplifying Offline Python Deployments With Docker](https://realpython.com/offline-python-deployments-with-docker/)
-* [Simulating Real-World Processes in Python With SimPy](https://realpython.com/courses/simulating-processes-simpy/)
-* [Strings and Character Data in Python: Overview](https://realpython.com/lessons/python-strings-character-data-overview/)
-* [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
-* [Test Your Python Apps](https://realpython.com/learning-paths/test-your-python-apps/)
-* [The Arduino Platform](https://realpython.com/lessons/arduino-platform/)
-* [The subprocess Module: Wrapping Programs with Python](https://realpython.com/python-subprocess/)
-* [Traditional Face Detection with Python](https://realpython.com/traditional-face-detection-python/)
-* [Twitter Sentiment Analysis - Python, Docker, Elasticsearch, Kibana](https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/)
-* [Unicode & Character Encodings in Python: A Painless Guide](https://realpython.com/python-encodings-guide/)
-* [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
-* [Why Is It Important to Close Files in Python?](https://realpython.com/why-close-file-python/)
-* [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
-* [Working With Linear Systems in Python With scipy.linalg](https://realpython.com/python-scipy-linalg/)
-* [Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
-* [Your Guide to the Python print() Function](https://realpython.com/python-print/)
+* [ [RP](https://realpython.com/python-code-quality/) ] VanTol, Alexander. (30 Jul 2018). "Python Code Quality: Tools & Best Practices". RealPython.
+* [ [RP](https://realpython.com/python-rock-paper-scissors/) ] Wilkerson, Chris. (18 Jan 2021). "Make Your First Python Game: Rock, Paper, Scissors!". RealPython.
+* [ [RP](https://realpython.com/null-in-python/) ] Wolf. (19 Feb 2020). "Null in Python: Understanding Python's NoneType Object". RealPython.
+* [ [RP](https://realpython.com/python-profiling/) ] Zaczyński, Bartosz. (10 Jul 2023). "Profiling in Python: How to Find Performance Bottlenecks". RealPython.
+* [ [RP](https://realpython.com/python-http-server/) ] Zaczyński, Bartosz. (22 May 2023). "How to Launch an HTTP Server in One Line of Python Code". RealPython.
+* [ [RP](https://realpython.com/docker-continuous-integration) ] Zaczyński, Bartosz. (08 May 2023). "Build Robust Continuous Integration With Docker and Friends". RealPython.
+* [ [RP](https://realpython.com/python-maze-solver) ] Zaczyński, Bartosz. (29 Mar 2023). "Builds a Maze Solver in Python Using Graphs". RealPython.
+* [ [RP](https://realpython.com/tic-tac-toe-ai-python/) ] Zaczyński, Bartosz. (19 OCt 2022). "Build a Tic-Tac-Toe Game Engine With an AI Player in Python". RealPython.
+* [ [RP](https://realpython.com/python-hash-table) ] Zaczyński, Bartosz. (16 Mar 2022). "Build a Hash Table in Python with TDD". RealPython.
+* [ [RP](https://realpython.com/python-fractions/) ] Zaczyński, Bartosz. (11 Oct 2021). "Representing Rational Numbers With Python Fractions
+". RealPython.
+* [ [RP](https://realpython.com/python-bitwise-operators/) ] Zaczyński, Bartosz. (09 Dec 2020). "Bitwise Operators in Python". RealPython.
+* [ [RP](https://realpython.com/python-bitwise-operators/) ] Zaczyński, Bartosz. (12 Aug 2019). "Your Guide to the Python print() Function". RealPython.
+* [ [RP](https://realpython.com/python-pass/) ] Zadka, Moshe. (16 Dec 2020). "The pass Statement: How to Do Nothing in Python". RealPython.
+* [ [RP](https://realpython.com/python-boolean/) ] Zadka, Moshe. (19 Oct 2020). "Python Booleans: Use Truth Values in Your Code". RealPython.
+* [ [RP](https://realpython.com/simpy-simulating-with-python/) ] Zhané, Jaya. (25 Mar 2020). "SimPy: Simulating Real-World Processes With Python". RealPython.
 
 freeCodeCamp
 * [[Y](https://www.youtube.com/watch?v=jH85McHenvw)] freeCodeCamp. (4 Oct 2022). "Learn Python by Thinking in Types- Full Course".
