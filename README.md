@@ -17,23 +17,23 @@ Distributions
 
 Packages
 * [ h ][ [d](https://www.crummy.com/software/BeautifulSoup/) ][ g ][ c ][ [p](https://pypi.org/project/beautifulsoup4/) ] Beautiful Soup
+* [ h ][ d ][ [g](https://github.com/kigawas/python-bip44) ][ c ][ [p](https://pypi.org/project/bip44/) ] Bip44
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/black/) ] Black
 * [ h ][ [d](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html) ][ g ][ c ][ [p](https://pypi.org/project/boto3/) ] Boto3
 * [ h ][ [d](https://cupy.dev/) ][ g ][ c ][ [p](https://pypi.org/project/cupy/) ] CuPy
 * [ h ][ d ][ [g](https://github.com/google/python-fire) ][ c ][ [p](https://pypi.org/project/fire/) ] Fire (Google)
 * [ h ][ [d](https://flake8.pycqa.org/en/latest/) ][ g ][ c ][ p ] Flake8
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Flask/) ] Flask
+* [ [h](https://ipython.org) ][ d ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
 * [ h ][ [d](https://jupytext.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Jupytext
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
 * [ h ][ d ][ [g](https://github.com/openai/openai-python) ][ c ][ [p](https://pypi.org/project/openai/) ] OpenAI
 * [ [h](https://www.pola.rs/) ][ d ][ g ][ c ][ p ] Polars
 * [ h ][ [d](https://www.psycopg.org/) ][ g ][ c ][ [p](https://pypi.org/project/psycopg2/) ] Psycopg2
-* [ h ][ d ][ [g](https://github.com/tmbo/questionary) ][ c ][ [p](https://pypi.org/project/questionary/) ] Questionary
-* [ h ][ [d](https://requests.readthedocs.io/en/latest/) ][ g ][ c ][ [p](https://pypi.org/project/requests/) ] Requests
-* [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
-* [ h ][ d ][ [g](https://github.com/kigawas/python-bip44) ][ c ][ [p](https://pypi.org/project/bip44/) ] Bip44
-* [ [h](https://ipython.org) ][ d ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
+* [ [h](https://pythonhosted.org/pytz/) ][ d ][ [g](https://github.com/stub42/pytz) ][ c ][ [p](https://pypi.org/project/pytz/) ] Pytz
+* [ h ][ [d](https://questionary.readthedocs.io/en/stable/index.html) ][ [g](https://github.com/tmbo/questionary) ][ c ][ [p](https://pypi.org/project/questionary/) ] Questionary
 * [ h ][ [d](https://requests.readthedocs.io/en/latest/) ][ [g](https://github.com/psf/requests) ][ [c](https://anaconda.org/conda-forge/requests) ][ [p](https://pypi.org/project/requests/) ] Requests
+* [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
 * [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
 * [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
 
