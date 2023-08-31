@@ -25,6 +25,7 @@ Packages
 * [ h ][ [d](https://flake8.pycqa.org/en/latest/) ][ g ][ c ][ p ] Flake8
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Flask/) ] Flask
 * [ [h](https://ipython.org) ][ d ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
+* [ [h](https://jupyterbook.org/en/stable/intro.html) ][ d ][ g ][ c ][ p ] Jupyter Book
 * [ h ][ [d](https://jupytext.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Jupytext
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
 * [ h ][ d ][ [g](https://github.com/openai/openai-python) ][ c ][ [p](https://pypi.org/project/openai/) ] OpenAI
