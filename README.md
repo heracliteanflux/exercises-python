@@ -36,7 +36,7 @@ Packages
 * [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
 * [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
 * [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
-[ [h](https://www.xlwings.org/) ][ [d](https://docs.xlwings.org/en/latest/) ][ [g](https://github.com/xlwings/xlwings) ][ c ][ [p](https://pypi.org/project/xlwings/) ] xlwings
+* [ [h](https://www.xlwings.org/) ][ [d](https://docs.xlwings.org/en/latest/) ][ [g](https://github.com/xlwings/xlwings) ][ c ][ [p](https://pypi.org/project/xlwings/) ] xlwings
 
 [RealPython](https://realpython.com)
 * [ [RP](https://realpython.com/coding-font/) ] Acsany, Philipp. (29 May 2023). "Choosing the Best Coding Font for Programming". RealPython.
