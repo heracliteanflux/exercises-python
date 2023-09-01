@@ -1,5 +1,6 @@
 !knn
 !NumPy
+!web_scraping
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
