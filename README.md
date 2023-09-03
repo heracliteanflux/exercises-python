@@ -24,16 +24,21 @@ Packages
 * [ h ][ d ][ [g](https://github.com/google/python-fire) ][ c ][ [p](https://pypi.org/project/fire/) ] Fire (Google)
 * [ h ][ [d](https://flake8.pycqa.org/en/latest/) ][ g ][ c ][ p ] Flake8
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Flask/) ] Flask
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/imbalanced-learn/) ] Imbalanced-Learn
 * [ [h](https://ipython.org) ][ d ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
 * [ [h](https://jupyterbook.org/en/stable/intro.html) ][ d ][ g ][ c ][ p ] Jupyter Book
 * [ h ][ [d](https://jupytext.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Jupytext
+* [ h ][ d ][ g ][ c ][ [P](https://pypi.org/project/matplotlib/) ] Matplotlib
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
 * [ h ][ d ][ [g](https://github.com/openai/openai-python) ][ c ][ [p](https://pypi.org/project/openai/) ] OpenAI
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pandas/) ] Pandas
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/plotly/) ] Plotly
 * [ [h](https://www.pola.rs/) ][ d ][ g ][ c ][ p ] Polars
 * [ h ][ [d](https://www.psycopg.org/) ][ g ][ c ][ [p](https://pypi.org/project/psycopg2/) ] Psycopg2
 * [ [h](https://pythonhosted.org/pytz/) ][ d ][ [g](https://github.com/stub42/pytz) ][ c ][ [p](https://pypi.org/project/pytz/) ] Pytz
 * [ h ][ [d](https://questionary.readthedocs.io/en/stable/index.html) ][ [g](https://github.com/tmbo/questionary) ][ c ][ [p](https://pypi.org/project/questionary/) ] Questionary
 * [ h ][ [d](https://requests.readthedocs.io/en/latest/) ][ [g](https://github.com/psf/requests) ][ [c](https://anaconda.org/conda-forge/requests) ][ [p](https://pypi.org/project/requests/) ] Requests
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scikit-learn/) ] Scikit-Learn
 * [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
 * [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
 * [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
