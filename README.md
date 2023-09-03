@@ -7,6 +7,7 @@ Distributions
 * [ [h](https://www.anaconda.com/open-source) ][ d ][ g ][ w ] Anaconda
 * [ [h](https://circuitpython.org) ][ d ][ [g](https://github.com/Adafruit/CircuitPython) ][ [w](https://en.wikipedia.org/wiki/CircuitPython) ] CircuitPython
 * [ [h](https://www.python.org) ][ d ][ [g](https://github.com/python/cpython) ][ [w](https://en.wikipedia.org/wiki/CPython) ] CPython
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Cython/) ] Cython
 * [ [h](https://micropython.org) ][ [d](https://docs.micropython.org/en/latest/) ][ [g](https://github.com/micropython/micropython) ][ [w](https://en.wikipedia.org/wiki/MicroPython) ] MicroPython
 * [ [h](https://www.pypy.org) ][ [d](https://doc.pypy.org/en/latest/) ][ g ][ [w](https://en.wikipedia.org/wiki/PyPy) ] PyPy
 * [ [h](https://github.com/stackless-dev/stackless/wiki) ][ d ][ [g](https://github.com/stackless-dev/stackless) ][ [w](https://en.wikipedia.org/wiki/Stackless_Python) ] Stackless
@@ -21,12 +22,20 @@ Packages
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/black/) ] Black
 * [ h ][ [d](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html) ][ g ][ c ][ [p](https://pypi.org/project/boto3/) ] Boto3
 * [ h ][ [d](https://cupy.dev/) ][ g ][ c ][ [p](https://pypi.org/project/cupy/) ] CuPy
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/dask/) ] Dask
+* [ h ][ d ][ g ][ [c](https://anaconda.org/conda-forge/fastparquet) ][ [p](https://pypi.org/project/fastparquet/) ] Fastparquet
+* [ h ][ d ][ g ][ [c](https://anaconda.org/conda-forge/findspark) ][ [p](https://pypi.org/project/findspark/) ] Findspark
 * [ h ][ d ][ [g](https://github.com/google/python-fire) ][ c ][ [p](https://pypi.org/project/fire/) ] Fire (Google)
 * [ h ][ [d](https://flake8.pycqa.org/en/latest/) ][ g ][ c ][ p ] Flake8
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Flask/) ] Flask
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/hvplot/) ] hvPlot
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/imbalanced-learn/) ] Imbalanced-Learn
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/ipykernel/) ] IPyKernel
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/ipympl/) ] IPyMpl
 * [ [h](https://ipython.org) ][ d ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/ipywidgets/) ] IPyWidgets
 * [ [h](https://jupyterbook.org/en/stable/intro.html) ][ d ][ g ][ c ][ p ] Jupyter Book
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/jupyterlab/) ] JupyterLab
 * [ h ][ [d](https://jupytext.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Jupytext
 * [ h ][ d ][ g ][ c ][ [P](https://pypi.org/project/matplotlib/) ] Matplotlib
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
@@ -43,6 +52,23 @@ Packages
 * [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
 * [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
 * [ [h](https://www.xlwings.org/) ][ [d](https://docs.xlwings.org/en/latest/) ][ [g](https://github.com/xlwings/xlwings) ][ c ][ [p](https://pypi.org/project/xlwings/) ] xlwings
+
+
+
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/nltk/) ] NLTK
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/mrjob/) ] mrjob
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Pillow/) ] Pillow
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pip/) ] Pip
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/prettytable/) ] PrettyTable
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyarrow/) ] PyArrow
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pymongo/) ] PyMongo
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt5/) ] PyQt5
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt6/) ] PyQt6
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyspark/) ] PySpark
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/torch/) ] PyTorch
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scipy/) ] SciPy
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/sympy/) ] SymPy
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/statsmodels/) ] Statsmodels
 
 [RealPython](https://realpython.com)
 * [ [RP](https://realpython.com/coding-font/) ] Acsany, Philipp. (29 May 2023). "Choosing the Best Coding Font for Programming". RealPython.
