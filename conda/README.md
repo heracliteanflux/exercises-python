@@ -66,8 +66,6 @@ python -m pip install jupyter-book
 
 4
 
-[ [p](https://pypi.org/project/tensorflow-metal/) ][ [f](https://developer.apple.com/forums/tags/tensorflow-metal/) ] tensorflow-metal
-
 TensorFlow latest
 
 ```zsh
@@ -82,7 +80,7 @@ python -m pip install tensorflow-macos==2.12
 
 5
 
-tensorflow-metal latest
+[ [d](https://developer.apple.com/metal/tensorflow-plugin/) ][ [p](https://pypi.org/project/tensorflow-metal/) ][ [f](https://developer.apple.com/forums/tags/tensorflow-metal/) ] tensorflow-metal latest
 
 ```zsh
 python -m pip install tensorflow-metal
