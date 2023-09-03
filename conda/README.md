@@ -2,6 +2,13 @@
 
 ## A development environment for macOS
 
+0
+
+```zsh
+conda deactivate &&
+conda remove -n ml -y --all
+```
+
 1
 
 ```zsh
