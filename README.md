@@ -38,37 +38,34 @@ Packages
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/jupyterlab/) ] JupyterLab
 * [ h ][ [d](https://jupytext.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Jupytext
 * [ h ][ d ][ g ][ c ][ [P](https://pypi.org/project/matplotlib/) ] Matplotlib
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/mrjob/) ] Mrjob
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/nltk/) ] NLTK
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
 * [ h ][ d ][ [g](https://github.com/openai/openai-python) ][ c ][ [p](https://pypi.org/project/openai/) ] OpenAI
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pandas/) ] Pandas
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/plotly/) ] Plotly
-* [ [h](https://www.pola.rs/) ][ d ][ g ][ c ][ p ] Polars
-* [ h ][ [d](https://www.psycopg.org/) ][ g ][ c ][ [p](https://pypi.org/project/psycopg2/) ] Psycopg2
-* [ [h](https://pythonhosted.org/pytz/) ][ d ][ [g](https://github.com/stub42/pytz) ][ c ][ [p](https://pypi.org/project/pytz/) ] Pytz
-* [ h ][ [d](https://questionary.readthedocs.io/en/stable/index.html) ][ [g](https://github.com/tmbo/questionary) ][ c ][ [p](https://pypi.org/project/questionary/) ] Questionary
-* [ h ][ [d](https://requests.readthedocs.io/en/latest/) ][ [g](https://github.com/psf/requests) ][ [c](https://anaconda.org/conda-forge/requests) ][ [p](https://pypi.org/project/requests/) ] Requests
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scikit-learn/) ] Scikit-Learn
-* [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
-* [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
-* [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
-* [ [h](https://www.xlwings.org/) ][ [d](https://docs.xlwings.org/en/latest/) ][ [g](https://github.com/xlwings/xlwings) ][ c ][ [p](https://pypi.org/project/xlwings/) ] xlwings
-
-
-
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/nltk/) ] NLTK
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/mrjob/) ] mrjob
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Pillow/) ] Pillow
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pip/) ] Pip
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/plotly/) ] Plotly
+* [ [h](https://www.pola.rs/) ][ d ][ g ][ c ][ p ] Polars
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/prettytable/) ] PrettyTable
+* [ h ][ [d](https://www.psycopg.org/) ][ g ][ c ][ [p](https://pypi.org/project/psycopg2/) ] Psycopg2
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyarrow/) ] PyArrow
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pymongo/) ] PyMongo
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt5/) ] PyQt5
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt6/) ] PyQt6
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyspark/) ] PySpark
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/torch/) ] PyTorch
+* [ [h](https://pythonhosted.org/pytz/) ][ d ][ [g](https://github.com/stub42/pytz) ][ c ][ [p](https://pypi.org/project/pytz/) ] Pytz
+* [ h ][ [d](https://questionary.readthedocs.io/en/stable/index.html) ][ [g](https://github.com/tmbo/questionary) ][ c ][ [p](https://pypi.org/project/questionary/) ] Questionary
+* [ h ][ [d](https://requests.readthedocs.io/en/latest/) ][ [g](https://github.com/psf/requests) ][ [c](https://anaconda.org/conda-forge/requests) ][ [p](https://pypi.org/project/requests/) ] Requests
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scikit-learn/) ] Scikit-Learn
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scipy/) ] SciPy
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/sympy/) ] SymPy
+* [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/statsmodels/) ] Statsmodels
+* [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/sympy/) ] SymPy
+* [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
+* [ [h](https://www.xlwings.org/) ][ [d](https://docs.xlwings.org/en/latest/) ][ [g](https://github.com/xlwings/xlwings) ][ c ][ [p](https://pypi.org/project/xlwings/) ] xlwings
 
 [RealPython](https://realpython.com)
 * [ [RP](https://realpython.com/coding-font/) ] Acsany, Philipp. (29 May 2023). "Choosing the Best Coding Font for Programming". RealPython.
