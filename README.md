@@ -42,6 +42,7 @@ Packages
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/nltk/) ] NLTK
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
 * [ h ][ d ][ [g](https://github.com/openai/openai-python) ][ c ][ [p](https://pypi.org/project/openai/) ] OpenAI
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/openpyxl/) ] OpenPyXL
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pandas/) ] Pandas
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Pillow/) ] Pillow
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pip/) ] Pip
