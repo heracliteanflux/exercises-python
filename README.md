@@ -17,7 +17,7 @@ Distributions
 [ [w](https://en.wikipedia.org/wiki/Python_syntax_and_semantics) ] Python syntax and semantics
 
 Packages
-* [ h ][ [d](https://docs.aiohttp.org/en/stable/) ][ [g](https://github.com/aio-libs/aiohttp) ][ c ] AIOHTTP
+* [ h ][ [d](https://docs.aiohttp.org/en/stable/) ][ [g](https://github.com/aio-libs/aiohttp) ][ c ][ p ] AIOHTTP
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/alpaca-trade-api/) ] Alpaca
 * [ h ][ d ][ [g](https://altair-viz.github.io) ][ c ][ p ] Altair
 * [ h ][ d ][ [g](https://github.com/bashtage/arch) ][ [c](https://anaconda.org/conda-forge/arch-py) ][ [p](https://pypi.org/project/arch/) ] Arch
