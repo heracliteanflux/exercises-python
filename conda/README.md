@@ -29,6 +29,7 @@ conda create -n ml -y \
 'numpy           =0001.25' \
 'matplotlib      =0003.07' \
 'mrjob           =0000.07' \
+'openpyxl        =0003.01' \
 'pandas          =0002.01' \
 'pillow          =0010.00' \
 'pip             =0023.02' \
