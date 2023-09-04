@@ -4,10 +4,10 @@ Exercises in the Python programming language and broader ecosystem.
 ## Resources
 
 Distributions
-* [ [h](https://www.anaconda.com/open-source) ][ d ][ g ][ w ] Anaconda
+
+* [ [h](https://www.anaconda.com/open-source) ][ [d](https://docs.anaconda.com/anaconda/) ][ g ][ [w](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)) ] Anaconda [ [y](https://www.youtube.com/c/ContinuumIo/) ]
 * [ [h](https://circuitpython.org) ][ d ][ [g](https://github.com/Adafruit/CircuitPython) ][ [w](https://en.wikipedia.org/wiki/CircuitPython) ] CircuitPython
 * [ [h](https://www.python.org) ][ d ][ [g](https://github.com/python/cpython) ][ [w](https://en.wikipedia.org/wiki/CPython) ] CPython
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Cython/) ] Cython
 * [ [h](https://micropython.org) ][ [d](https://docs.micropython.org/en/latest/) ][ [g](https://github.com/micropython/micropython) ][ [w](https://en.wikipedia.org/wiki/MicroPython) ] MicroPython
 * [ [h](https://www.pypy.org) ][ [d](https://doc.pypy.org/en/latest/) ][ g ][ [w](https://en.wikipedia.org/wiki/PyPy) ] PyPy
 * [ [h](https://github.com/stackless-dev/stackless/wiki) ][ d ][ [g](https://github.com/stackless-dev/stackless) ][ [w](https://en.wikipedia.org/wiki/Stackless_Python) ] Stackless
@@ -17,55 +17,135 @@ Distributions
 [ [w](https://en.wikipedia.org/wiki/Python_syntax_and_semantics) ] Python syntax and semantics
 
 Packages
+* [ h ][ [d](https://docs.aiohttp.org/en/stable/) ][ [g](https://github.com/aio-libs/aiohttp) ][ c ] AIOHTTP
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/alpaca-trade-api/) ] Alpaca
+* [ h ][ d ][ [g](https://altair-viz.github.io) ][ c ][ p ] Altair
+* [ h ][ d ][ [g](https://github.com/bashtage/arch) ][ [c](https://anaconda.org/conda-forge/arch-py) ][ [p](https://pypi.org/project/arch/) ] Arch
 * [ h ][ [d](https://www.crummy.com/software/BeautifulSoup/) ][ g ][ c ][ [p](https://pypi.org/project/beautifulsoup4/) ] Beautiful Soup
 * [ h ][ d ][ [g](https://github.com/kigawas/python-bip44) ][ c ][ [p](https://pypi.org/project/bip44/) ] Bip44
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/black/) ] Black
+* [ [h](https://bokeh.org) ][ d ][ g ][ c ][ p ] Bokeh
 * [ h ][ [d](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html) ][ g ][ c ][ [p](https://pypi.org/project/boto3/) ] Boto3
+* [ h ][ d ][ [g](https://github.com/tomkwok/calplot) ][ c ][ [p](https://pypi.org/project/calplot/) ] Calplot
+* [ [h](https://palletsprojects.com/p/click/) ][ d ][ g ][ c ][ p ] Click
+* [ h ][ d ][ [g](https://github.com/cookiecutter/cookiecutter) ][ c ][ [p](https://pypi.org/project/cookiecutter/) ] Cookiecutter
+* [ h ][ d ][ [g](https://github.com/santosjorge/cufflinks) ][ c ][ [p](https://pypi.org/project/cufflinks/) ] Cufflinks
 * [ h ][ [d](https://cupy.dev/) ][ g ][ c ][ [p](https://pypi.org/project/cupy/) ] CuPy
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/dask/) ] Dask
+* [ h ][ [d](https://cvxopt.org) ][ [g](https://github.com/cvxopt/cvxopt) ][ c ][ [p](https://pypi.org/project/cvxopt/) ] Cvxopt
+* [ [h](https://cython.org) ][ d ][ [g](https://github.com/cython) ][ c ][ [p](https://pypi.org/project/Cython/) ] Cython [ [w](https://en.wikipedia.org/wiki/Cython) ]
+* [ [h](https://dash.plotly.com/) ][ d ][ g ][ c ][ [p](https://pypi.org/project/dash/) ] Dash
+* [ [h](https://www.dask.org/) ][ d ][ g ][ c ][ [p](https://pypi.org/project/dask/) ] Dask
+* [ [h](https://www.djangoproject.com) ][ d ][ g ][ c ][ p ] Django
+* [ [h](http://www.fabfile.org) ][ d ][ g ][ c ][ p ] Fabric
 * [ h ][ d ][ g ][ [c](https://anaconda.org/conda-forge/fastparquet) ][ [p](https://pypi.org/project/fastparquet/) ] Fastparquet
 * [ h ][ d ][ g ][ [c](https://anaconda.org/conda-forge/findspark) ][ [p](https://pypi.org/project/findspark/) ] Findspark
-* [ h ][ d ][ [g](https://github.com/google/python-fire) ][ c ][ [p](https://pypi.org/project/fire/) ] Fire (Google)
+* [ h ][ d ][ [g](https://github.com/google/python-fire) ][ c ][ [p](https://pypi.org/project/fire/) ] Fire
 * [ h ][ [d](https://flake8.pycqa.org/en/latest/) ][ g ][ c ][ p ] Flake8
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Flask/) ] Flask
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/hvplot/) ] hvPlot
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/imbalanced-learn/) ] Imbalanced-Learn
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/ipykernel/) ] IPyKernel
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/ipympl/) ] IPyMpl
-* [ [h](https://ipython.org) ][ d ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/ipywidgets/) ] IPyWidgets
+* [ h ][ [d](https://flask-pymongo.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Flask-PyMongo
+* [ [h](https://holoviews.org) ][ d ][ g ][ c ][ p ] HoloViews
+* [ [h](https://holoviz.org) ][ d ][ g ][ c ][ p ] HoloViz
+* [ [h](https://hvplot.holoviz.org) ][ d ][ g ][ c ][ [p](https://pypi.org/project/hvplot/) ] hvPlot
+* [ [h](https://ibis-project.org/) ][ d ][ g ][ c ][ p ] Ibis
+* [ [h](https://imbalanced-learn.org/stable/) ][ d ][ g ][ c ][ [p](https://pypi.org/project/imbalanced-learn/) ] Imbalanced-Learn
+* [ h ][ [d](https://ipython.org/) ][ g ][ c ][ [p](https://pypi.org/project/ipykernel/) ] IPyKernel
+* [ h ][ [d](https://matplotlib.org/ipympl/) ][ [g](https://github.com/matplotlib/ipympl) ][ c ][ [p](https://pypi.org/project/ipympl/) ] IPyMpl
+* [ [h](https://ipython.org) ][ [d](https://ipython.readthedocs.io/) ][ [g](https://github.com/ipython/ipykernel) ][ [c](https://anaconda.org/conda-forge/ipykernel) ][ [p](https://pypi.org/project/ipykernel/) ] IPython
+  * [Tutorial](https://ipython.readthedocs.io/en/stable/interactive/tutorial.html)
+    * [Helpful Commands](https://ipython.readthedocs.io/en/stable/interactive/tutorial.html#the-four-most-helpful-commands)
+    * [Magic Functions](https://ipython.readthedocs.io/en/stable/interactive/tutorial.html#magic-functions)
+* [ h ][ [d](https://ipywidgets.readthedocs.io/en/latest/index.html) ][ [g](https://github.com/jupyter-widgets/ipywidgets) ][ c ][ [p](https://pypi.org/project/ipywidgets/) ] IPyWidgets
 * [ [h](https://jupyterbook.org/en/stable/intro.html) ][ d ][ g ][ c ][ p ] Jupyter Book
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/jupyterlab/) ] JupyterLab
+* [ h ][ [d](https://jupyter-notebook.readthedocs.io/en/stable/) ][ [g](https://github.com/jupyter/notebook) ][ c ][ [p](https://pypi.org/project/notebook/) ] Jupyter Notebook
+* [ h ][ [d](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e) ][ [g](https://github.com/plotly/jupyter-dash) ][ c ][ [p](https://pypi.org/project/jupyter-dash/) ] jupyter-dash
+* [ h ][ d ][ [g](https://github.com/pbugnion/gmaps) ][ c ][ p ] jupyter-gmaps
+* [ h ][ [d](https://jupyterlab.readthedocs.io/en/latest/) ][ g ][ c ][ [p](https://pypi.org/project/jupyterlab/) ] JupyterLab
+* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/jupyterlab-widgets/) ] jupyterlab-widgets
 * [ h ][ [d](https://jupytext.readthedocs.io/en/latest/) ][ g ][ c ][ p ] Jupytext
-* [ h ][ d ][ g ][ c ][ [P](https://pypi.org/project/matplotlib/) ] Matplotlib
+* [ [h](https://keras.io) ][ d ][ g ][ c ][ p ] Keras
+* [ h ][ [d](https://lxml.de/) ][ g ][ c ][ [p](https://pypi.org/project/lxml/) ] Lxml
+* [ [h](https://www.manim.community) ][ d ][ g ][ c ][ [p](https://pypi.org/project/manim/) ] Manim
+* [ [h](https://matplotlib.org) ][ [d](https://matplotlib.org/) ][ g ][ c ][ [p](https://pypi.org/project/matplotlib/) ] Matplotlib
+* [ h ][ d ][ [g](https://github.com/stephenmcd/mezzanine) ][ c ][ p ] Mezzanine
+* [ [h](https://mpmath.org/) ][ d ][ g ][ [c](https://anaconda.org/conda-forge/mpmath) ][ [p](https://pypi.org/project/mpmath/) ] Mpmath
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/mrjob/) ] Mrjob
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/nltk/) ] NLTK
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
+* [ [h](http://www.mypy-lang.org) ][ [d](https://mypy.readthedocs.io/en/stable/) ][ [g](https://github.com/python/mypy) ][ [c](https://anaconda.org/conda-forge/mypy) ][ [p](https://pypi.org/project/mypy/) ] MyPy
+* [ h ][ [d](https://nbconvert.readthedocs.io/) ][ g ][ c ][ p ] nbconvert
+* [ [h](http://www.nltk.org) ][ d ][ g ][ c ][ [p](https://pypi.org/project/nltk/) ] NLTK
+* [ [h](https://numba.pydata.org/) ][ [d](https://numba.readthedocs.io/en/stable/index.html) ][ g ][ [c](https://anaconda.org/conda-forge/numba/) ][ [p](https://pypi.org/project/numba/) ] Numba [ [w](https://en.wikipedia.org/wiki/Numba) ]
+* [ h ][ [d](https://numexpr.readthedocs.io/en/latest/) ][ [g](https://github.com/pydata/numexpr) ][ c ][ [p](https://pypi.org/project/numexpr/) ] NumExpr
+* [ [h](https://numpy.org) ][ d ][ g ][ c ][ [p](https://pypi.org/project/numpy/) ] NumPy
+  * [Learn](https://numpy.org/learn/)
+  * [Cheatsheet (Datacamp)](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
+  * [Cheatsheet (Dataquest)](https://www.dataquest.io/blog/numpy-cheat-sheet/)
+* [ [h](https://numpy.org/numpy-financial/) ][ d ][ [g](https://github.com/numpy/numpy-financial) ][ [c](https://anaconda.org/conda-forge/numpy-financial) ][ [p](https://pypi.org/project/numpy-financial/) ] numpy-financial
+* [ h ][ [d](https://oauthlib.readthedocs.io/) ][ [g](https://github.com/oauthlib/oauthlib) ][ [c](https://anaconda.org/conda-forge/oauthlib) ][ [p](https://pypi.org/project/oauthlib/) ] OAuthLib
 * [ h ][ d ][ [g](https://github.com/openai/openai-python) ][ c ][ [p](https://pypi.org/project/openai/) ] OpenAI
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/openpyxl/) ] OpenPyXL
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pandas/) ] Pandas
+* [ [h](https://opencv.org) ][ d ][ g ][ c ][ p ] OpenCV
+* [ h ][ [d](https://openpyxl.readthedocs.io/en/stable/) ][ g ][ c ][ [p](https://pypi.org/project/openpyxl/) ] OpenPyXL
+* [ [h](https://pandas.pydata.org) ][ [d](https://pandas.pydata.org/docs/user_guide/index.html) ][ g ][ c ][ [p](https://pypi.org/project/pandas/) ] Pandas
+  * User Guide
+    * [Indexing and selecting data](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
+      * [Returning a view versus a copy](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy)
+    * [Reshaping and pivot tables](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
+      * [Computing indicator / dummy variables](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html#computing-indicator-dummy-variables)
+    * [Time series / date functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+  * [Getting Started](https://pandas.pydata.org/docs/getting_started/index.html)
+  * [Community Tutorials](https://pandas.pydata.org/docs/getting_started/tutorials.html#communitytutorials)
+  * [Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [ [h](https://pandoc.org) ][ d ][ g ][ c ][ p ] Pandoc
+* [ [h](https://panel.holoviz.org) ][ d ][ g ][ c ][ p ] Panel
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/Pillow/) ] Pillow
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pip/) ] Pip
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/plotly/) ] Plotly
+* [ h ][ d ][ [g](https://github.com/brunorosilva/plotly-calplot) ][ c ][ [p](https://pypi.org/project/plotly-calplot/) ] plotly-calplot
 * [ [h](https://www.pola.rs/) ][ d ][ g ][ c ][ p ] Polars
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/prettytable/) ] PrettyTable
+* [ [h](https://www.fatiando.org/pooch/latest/) ][ d ][ [g](https://github.com/fatiando/pooch) ][ c ][ p ] Pooch
+* [ h ][ d ][ [g](https://github.com/jazzband/prettytable) ][ [c](https://anaconda.org/conda-forge/prettytable) ][ [p](https://pypi.org/project/prettytable/) ] PrettyTable
+* [ [h](https://facebook.github.io/prophet/) ][ [d](https://facebook.github.io/prophet/docs/quick_start.html) ][ g ][ c ][ p ] Prophet
 * [ h ][ [d](https://www.psycopg.org/) ][ g ][ c ][ [p](https://pypi.org/project/psycopg2/) ] Psycopg2
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyarrow/) ] PyArrow
+* [ [h](https://www.pybroker.com/en/latest/) ][ d ][ g ][ c ][ p ] PyBroker
+* [ [h](https://pycaret.org) ][ d ][ g ][ c ][ p ] PyCaret
+* [ h ][ [d](https://docs.pydantic.dev/latest/) ][ g ][ c ][ p ] Pydantic
+* [ [h](https://pygments.org/) ][ d ][ g ][ c ][ p ] Pygments
 * [ h ][ [d](https://pymongo.readthedocs.io/en/stable/) ][ [g](https://github.com/mongodb/mongo-python-driver) ][ c ][ [p](https://pypi.org/project/pymongo/) ] PyMongo
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt5/) ] PyQt5
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt6/) ] PyQt6
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyspark/) ] PySpark
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/torch/) ] PyTorch
+* [ h ][ [d](https://docs.pytest.org/) ][ g ][ c ][ p ] PyTest
+* [ [h](https://pytorch.org) ][ d ][ g ][ c ][ [p](https://pypi.org/project/torch/) ] PyTorch
 * [ [h](https://pythonhosted.org/pytz/) ][ d ][ [g](https://github.com/stub42/pytz) ][ c ][ [p](https://pypi.org/project/pytz/) ] Pytz
+* [ [h](https://pyviz.org) ][ d ][ g ][ c ][ p ] PyViz
+  * [[Y](https://www.youtube.com/watch?v=k27MJJLJNT4)] Anaconda. (2018). "PyViz: Dashboards for Visualizing 1 Billion Datapoints in 30 Lines of Python".
+* [ [h](https://quantstack.net/) ][ d ][ g ][ c ][ p ] QuantStack
 * [ h ][ [d](https://questionary.readthedocs.io/en/stable/index.html) ][ [g](https://github.com/tmbo/questionary) ][ c ][ [p](https://pypi.org/project/questionary/) ] Questionary
 * [ h ][ [d](https://requests.readthedocs.io/en/latest/) ][ [g](https://github.com/psf/requests) ][ [c](https://anaconda.org/conda-forge/requests) ][ [p](https://pypi.org/project/requests/) ] Requests
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scikit-learn/) ] Scikit-Learn
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/scipy/) ] SciPy
+* [ h ][ [d](https://requests-oauthlib.readthedocs.io/) ][ [g](https://github.com/requests/requests-oauthlib) ][ [c](https://anaconda.org/conda-forge/requests-oauthlib) ][ [p](https://pypi.org/project/requests-oauthlib/) ] Requests-OAuthLib
+* [ [h](https://rpy2.github.io) ][ d ][ g ][ c ][ [p](https://pypi.org/project/rpy2/) ] RPy2
+* [ h ][ [d](https://schemdraw.readthedocs.io/en/latest/index.html) ][ g ][ c ][ p ] SchemDraw
+* [ h ][ d ][ g ][ c ][ p ] Scikit-Image
+* [ [h](https://scikit-learn.org/stable/index.html) ][ d ][ g ][ c ][ [p](https://pypi.org/project/scikit-learn/) ] Scikit-Learn
+* [ [h](https://surpriselib.com/) ][ [d](https://surprise.readthedocs.io/en/stable/index.html) ][ g ][ c ][ [p](https://pypi.org/project/scikit-surprise/) ] Scikit-Surprise
+* [ [h](https://www.scipy.org) ][ d ][ g ][ c ][ [p](https://pypi.org/project/scipy/) ] SciPy
+  * [Lecture Notes](https://scipy-lectures.org)
+  * [Cookbook](https://scipy-cookbook.readthedocs.io/index.html)
+  * [Cheatsheet (Datacamp)](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
+* [ [h](https://scrapy.org/) ][ d ][ g ][ c ][ p ] ScraPy
+* [ h ][ [d](https://www.selenium.dev/documentation/webdriver/) ][ g ][ c ][ [p](https://pypi.org/project/selenium/) ] Selenium
 * [ h ][ [d](https://spacy.io/) ][ g ][ c ][ [p](https://pypi.org/project/spacy/) ] SpaCy
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/statsmodels/) ] Statsmodels
+* [ [h](https://seaborn.pydata.org) ][ d ][ g ][ c ][ p ] Seaborn
+* [ h ][ [d](https://simpy.readthedocs.io/en/latest/) ][ g ][ c ][ p ] SimPy
+* [ h ][ [d](https://splinter.readthedocs.io/en/latest/index.html) ][ g ][ c ][ [p](https://pypi.org/project/splinter/) ] Splinter
+* [ h ][ [d](https://www.sqlalchemy.org/) ][ g ][ c ][ [p](https://pypi.org/project/SQLAlchemy/) ] SQLAlchemy
+* [ [h](https://www.statsmodels.org/stable/) ][ d ][ g ][ c ][ [p](https://pypi.org/project/statsmodels/) ] Statsmodels
 * [ [h](https://streamlit.io) ][ [d](https://docs.streamlit.io/) ][ [g](https://github.com/streamlit/streamlit) ][ c ][ [p](https://pypi.org/project/streamlit/) ] Streamlit
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/sympy/) ] SymPy
+* [ [h](https://www.sympy.org/en/index.html) ][ d ][ g ][ [c](https://anaconda.org/conda-forge/sympy) ][ [p](https://pypi.org/project/sympy/) ] SymPy
+* [ [h](https://www.tensorflow.org) ][ d ][ g ][ [c](https://anaconda.org/conda-forge/tensorflow) ][ p ] TensorFlow
+* [ h ][ [d](https://voila.readthedocs.io/) ][ g ][ c ][ [p](https://pypi.org/project/voila/) ] Voila
+  * [Blog](https://blog.jupyter.org/and-voilà-f6a2c08a4a93)
 * [ h ][ [d](https://web3py.readthedocs.io/en/stable/) ][ [g](https://github.com/ethereum/web3.py) ][ [c](https://anaconda.org/conda-forge/web3) ][ [p](https://pypi.org/project/web3/) ] Web3
+* [ h ][ d ][ [g](https://github.com/SergeyPirogov/webdriver_manager) ][ c ][ [p](https://pypi.org/project/webdriver-manager/) ] webdriver-manager
 * [ [h](https://www.xlwings.org/) ][ [d](https://docs.xlwings.org/en/latest/) ][ [g](https://github.com/xlwings/xlwings) ][ c ][ [p](https://pypi.org/project/xlwings/) ] xlwings
 
 [RealPython](https://realpython.com)

@@ -1,8 +1,7 @@
 !conda
 !edxbc
 !knn
-!NumPy
-!TensorFlow
+!scientific
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
