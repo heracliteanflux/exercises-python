@@ -50,7 +50,7 @@ Packages
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/prettytable/) ] PrettyTable
 * [ h ][ [d](https://www.psycopg.org/) ][ g ][ c ][ [p](https://pypi.org/project/psycopg2/) ] Psycopg2
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyarrow/) ] PyArrow
-* [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pymongo/) ] PyMongo
+* [ h ][ [d](https://pymongo.readthedocs.io/en/stable/) ][ [g](https://github.com/mongodb/mongo-python-driver) ][ c ][ [p](https://pypi.org/project/pymongo/) ] PyMongo
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt5/) ] PyQt5
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/PyQt6/) ] PyQt6
 * [ h ][ d ][ g ][ c ][ [p](https://pypi.org/project/pyspark/) ] PySpark
