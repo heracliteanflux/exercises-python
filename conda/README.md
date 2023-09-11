@@ -26,9 +26,10 @@ conda create -n ml -y \
 'ipywidgets      =0008.01' \
 'jupyterlab      =0004.00' \
 'nltk            =0003.08' \
-'numpy           =0001.25' \
+'numpy           =0001.24' \
 'matplotlib      =0003.07' \
 'mrjob           =0000.07' \
+'numba           =0000.57' \
 'openpyxl        =0003.01' \
 'pandas          =0002.01' \
 'pillow          =0010.00' \
@@ -41,6 +42,7 @@ conda create -n ml -y \
 'pymongo         =0004.05' \
 'pyqt            =0005.15' \
 'pyspark         =0003.04' \
+'pytest          =0007.04' \
 'python          =0003.11' \
 'pytorch         =0002.00' \
 'scikit-learn    =0001.03' \
